@@ -44,9 +44,9 @@ If the user has not provided the position's essential functions or the limitatio
 2. Confirm the legal framework: ADA/ADAAA (42 U.S.C. § 12101 et seq.), 29 C.F.R. Part 1630, EEOC enforcement guidance, and Tex. Lab. Code Ch. 21. The "qualified individual" definition at 42 U.S.C. § 12111(8) is the gate. See `references/ada-interactive-process-flow.md`.
 3. Scope medical inquiry. Inquiries must be job-related and consistent with business necessity. Ask for limitations, not diagnoses. Use GINA (42 U.S.C. § 2000ff et seq.) safe-harbor language.
 4. Map essential functions to the limitation. Identify which essential functions are affected and which accommodations could enable performance.
-5. Structure the accommodation options matrix for the HR signer to evaluate — effectiveness, cost, operational impact, and safety. The skill organizes the comparison; the HR signer (and where appropriate the city attorney) makes the call. The employee's preference is considered, but the employer chooses among effective accommodations.
-6. Surface the undue hardship factors — significant difficulty or expense considering the city's resources, operation, and impact. The skill structures the analysis; the qualified HR official applies the test. Do not invoke lightly.
-7. Structure the recommendation section so the HR signer can record their conclusion tied to the matrix and the undue-hardship analysis. The recommendation belongs to the signing HR official, not to the skill. For agreements, structure a signable document; for initiation letters, structure a follow-up meeting proposal.
+5. Structure the accommodation options matrix on effectiveness, cost, operational impact, and safety. The employee's preference is considered, but the employer chooses among effective accommodations.
+6. Surface the undue hardship factors — significant difficulty or expense considering the city's resources, operation, and impact. Do not invoke lightly.
+7. Structure the recommendation section for the HR signer to complete. The recommendation belongs to the signing official, not the skill. For agreements, structure a signable document; for initiation letters, structure a follow-up meeting proposal.
 8. Flag items for the city attorney. Direct threat, leave-as-accommodation, reassignment, and denials need counsel review.
 
 ## Output Format

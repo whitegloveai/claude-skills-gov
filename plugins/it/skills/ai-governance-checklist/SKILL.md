@@ -119,17 +119,15 @@ Length: 4–7 pages. Tone: factual, plain. Cite function alignment honestly; no 
 
 However, transparency about AI assistance in document drafting is sound practice and should align with the city's adopted AI use policy and the GovAI Coalition's guidance on documenting AI tool use. Consider a brief notation on documents distributed publicly or to the governing body: *"AI-assisted draft, reviewed by [AI Governance Lead]."* This is a policy choice, not a statutory mandate.
 
-**The skill differs from other IT skills in one important respect:** it *intakes* AI use cases that may themselves place citizens in direct AI interaction. Section 4 surfaces the § 552.051 question for every AI deployment. Any Yes routes the use case to a § 552.051 disclosure plan in Section 11. Triggering deployments include AI chatbots on the City website, AI voice assistants on the utility-billing IVR, AI 311 triage, and AI résumé screening that interacts with applicants.
+**Intake screens for citizen-AI interaction:** unlike other IT skills, this one *intakes* AI use cases that may themselves place citizens in direct AI interaction (chatbots, IVR voice assistants, 311 triage, résumé screening). Section 4 surfaces the § 552.051 question; any "Yes" routes to a disclosure plan in Section 11.
 
-**Substantial-compliance safe harbor — Tex. Bus. & Comm. Code § 552.057:** alignment with the NIST AI Risk Management Framework establishes a presumption of substantial compliance. Sections 6 and 7 document that alignment.
+**Substantial-compliance safe harbor — Tex. Bus. & Comm. Code § 552.057:** NIST AI RMF alignment establishes a presumption of substantial compliance, documented in Sections 6–7.
 
-**Prohibited uses — Tex. Bus. & Comm. Code §§ 552.101–552.108:** social scoring, unlawful biometric surveillance, manipulation through vulnerability exploitation. Section 5 surfaces these.
+**Prohibited uses — Tex. Bus. & Comm. Code §§ 552.101–552.108:** social scoring, unlawful biometric surveillance, manipulation through vulnerability exploitation. Surfaced in Section 5.
 
-**HB 3512 AI literacy training:** users with access to approved AI tools must complete the City's training. Section 14 references the requirement.
+**HB 3512 AI literacy training:** required for users of approved AI tools. Section 14.
 
-**Public records (Tex. Gov't Code Ch. 552):** AI outputs informing City decisions are public records. Section 12 maps them to TSLAC schedules.
-
-**GovAI Coalition alignment:** structure mirrors the Coalition Use Case Template.
+**Public records (Tex. Gov't Code Ch. 552):** AI outputs informing City decisions are public records, mapped to TSLAC schedules in Section 12. Structure mirrors the GovAI Coalition Use Case Template.
 
 ## References
 
