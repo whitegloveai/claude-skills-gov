@@ -1,0 +1,13 @@
+{
+  "name": "parks-recreation",
+  "description": "Claude skills for parks and recreation in local government. Program flyers, volunteer recognition, facility rental responses, sponsorship proposals. TRAIGA-aware, NIST AI RMF aligned.",
+  "version": "1.0.0",
+  "author": {
+    "name": "WhitegloveAI",
+    "email": "skills@whitegloveai.com",
+    "url": "https://whitegloveai.com"
+  },
+  "homepage": "https://whitegloveai.com/govhub",
+  "repository": "https://github.com/whitegloveai/claude-skills-gov",
+  "license": "MIT"
+}

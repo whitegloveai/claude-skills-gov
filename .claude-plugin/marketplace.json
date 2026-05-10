@@ -1,0 +1,131 @@
+{
+  "name": "whitegloveai-gov",
+  "owner": {
+    "name": "WhitegloveAI",
+    "email": "skills@whitegloveai.com",
+    "url": "https://whitegloveai.com"
+  },
+  "metadata": {
+    "description": "Free, open-source Claude Skills for local government work. TRAIGA-aware, NIST AI RMF aligned. Maintained by WhitegloveAI.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "council-ops",
+      "source": "./plugins/council-ops",
+      "description": "City council operations: agendas, minutes, council packets, resolutions, decision memos, ordinance tracking, public comment summarization.",
+      "version": "1.0.0",
+      "category": "local-government",
+      "tags": ["council", "agenda", "minutes", "resolution", "toma"],
+      "license": "MIT"
+    },
+    {
+      "name": "clerk",
+      "source": "./plugins/clerk",
+      "description": "City clerk workflows: TPIA/PIA responses, records retention, open meetings compliance, election notices, proclamations, public notices.",
+      "version": "1.0.0",
+      "category": "local-government",
+      "tags": ["clerk", "records", "tpia", "open-meetings", "elections"],
+      "license": "MIT"
+    },
+    {
+      "name": "finance",
+      "source": "./plugins/finance",
+      "description": "Municipal finance: budget narratives, variance analysis, grant applications, RFPs, transparency reports, audit responses, financial disclosures.",
+      "version": "1.0.0",
+      "category": "local-government",
+      "tags": ["finance", "budget", "grants", "procurement", "audit"],
+      "license": "MIT"
+    },
+    {
+      "name": "hr",
+      "source": "./plugins/hr",
+      "description": "Local government HR: job descriptions, policy analysis, onboarding packets, employee handbooks, performance evaluations, ADA accommodations.",
+      "version": "1.0.0",
+      "category": "local-government",
+      "tags": ["hr", "personnel", "ada", "policy", "onboarding"],
+      "license": "MIT"
+    },
+    {
+      "name": "planning",
+      "source": "./plugins/planning",
+      "description": "Planning and development services: zoning narratives, permit reviews, site plan summaries, public hearing notices, variance analyses, staff reports.",
+      "version": "1.0.0",
+      "category": "local-government",
+      "tags": ["planning", "zoning", "permits", "land-use"],
+      "license": "MIT"
+    },
+    {
+      "name": "public-works",
+      "source": "./plugins/public-works",
+      "description": "Public works operations: work order summaries, maintenance log analysis, capital improvement plans, service request classification, infrastructure reports.",
+      "version": "1.0.0",
+      "category": "local-government",
+      "tags": ["public-works", "infrastructure", "capital", "maintenance"],
+      "license": "MIT"
+    },
+    {
+      "name": "it",
+      "source": "./plugins/it",
+      "description": "Local government IT: policy drafting, security incident classification, vendor risk questionnaires, AI governance checklists, system-of-record mapping.",
+      "version": "1.0.0",
+      "category": "local-government",
+      "tags": ["it", "cybersecurity", "ai-governance", "vendor-risk"],
+      "license": "MIT"
+    },
+    {
+      "name": "legal",
+      "source": "./plugins/legal",
+      "description": "City attorney work: contract redline summaries, ordinance impact analyses, TPIA legal review, litigation summaries, interlocal agreement drafts.",
+      "version": "1.0.0",
+      "category": "local-government",
+      "tags": ["legal", "contracts", "ordinance", "litigation"],
+      "license": "MIT"
+    },
+    {
+      "name": "public-safety",
+      "source": "./plugins/public-safety",
+      "description": "Police, fire, EMS, emergency management: incident narrative cleanup, training bulletins, after-action reports, community engagement, emergency comms.",
+      "version": "1.0.0",
+      "category": "local-government",
+      "tags": ["public-safety", "police", "fire", "ems", "emergency-management"],
+      "license": "MIT"
+    },
+    {
+      "name": "communications",
+      "source": "./plugins/communications",
+      "description": "Public information office: press releases, citizen newsletters, municipal-style social media, talking points, crisis communications templates.",
+      "version": "1.0.0",
+      "category": "local-government",
+      "tags": ["communications", "pio", "press", "crisis-comms"],
+      "license": "MIT"
+    },
+    {
+      "name": "economic-development",
+      "source": "./plugins/economic-development",
+      "description": "Economic development: incentive proposals, site selection responses, business retention survey analysis, annual report narratives.",
+      "version": "1.0.0",
+      "category": "local-government",
+      "tags": ["economic-development", "incentives", "site-selection", "br-and-e"],
+      "license": "MIT"
+    },
+    {
+      "name": "parks-recreation",
+      "source": "./plugins/parks-recreation",
+      "description": "Parks and recreation: program flyers, volunteer recognition, facility rental responses, sponsorship proposals.",
+      "version": "1.0.0",
+      "category": "local-government",
+      "tags": ["parks", "recreation", "volunteers", "facilities"],
+      "license": "MIT"
+    },
+    {
+      "name": "library",
+      "source": "./plugins/library",
+      "description": "Public library staff: program descriptions, collection development justifications, community partnership proposals.",
+      "version": "1.0.0",
+      "category": "local-government",
+      "tags": ["library", "programs", "collection-development"],
+      "license": "MIT"
+    }
+  ]
+}

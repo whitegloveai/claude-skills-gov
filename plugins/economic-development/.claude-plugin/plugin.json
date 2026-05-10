@@ -1,0 +1,13 @@
+{
+  "name": "economic-development",
+  "description": "Claude skills for economic development in local government. Incentive proposals, site selection responses, business retention surveys, annual reports. TRAIGA-aware, NIST AI RMF aligned.",
+  "version": "1.0.0",
+  "author": {
+    "name": "WhitegloveAI",
+    "email": "skills@whitegloveai.com",
+    "url": "https://whitegloveai.com"
+  },
+  "homepage": "https://whitegloveai.com/govhub",
+  "repository": "https://github.com/whitegloveai/claude-skills-gov",
+  "license": "MIT"
+}

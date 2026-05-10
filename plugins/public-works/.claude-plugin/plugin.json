@@ -1,0 +1,13 @@
+{
+  "name": "public-works",
+  "description": "Claude skills for public works in local government. Work orders, maintenance logs, capital improvement plans, service request classification, infrastructure reports. TRAIGA-aware, NIST AI RMF aligned.",
+  "version": "1.0.0",
+  "author": {
+    "name": "WhitegloveAI",
+    "email": "skills@whitegloveai.com",
+    "url": "https://whitegloveai.com"
+  },
+  "homepage": "https://whitegloveai.com/govhub",
+  "repository": "https://github.com/whitegloveai/claude-skills-gov",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "library",
+  "description": "Claude skills for public library staff in local government. Program descriptions, collection development justifications, community partnership proposals. TRAIGA-aware, NIST AI RMF aligned.",
+  "version": "1.0.0",
+  "author": {
+    "name": "WhitegloveAI",
+    "email": "skills@whitegloveai.com",
+    "url": "https://whitegloveai.com"
+  },
+  "homepage": "https://whitegloveai.com/govhub",
+  "repository": "https://github.com/whitegloveai/claude-skills-gov",
+  "license": "MIT"
+}

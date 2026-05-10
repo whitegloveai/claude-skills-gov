@@ -1,0 +1,13 @@
+{
+  "name": "it",
+  "description": "Claude skills for IT and AI governance in local government. Policy drafting, security incident classification, vendor risk, AI governance, system-of-record mapping. TRAIGA-aware, NIST AI RMF aligned.",
+  "version": "1.0.0",
+  "author": {
+    "name": "WhitegloveAI",
+    "email": "skills@whitegloveai.com",
+    "url": "https://whitegloveai.com"
+  },
+  "homepage": "https://whitegloveai.com/govhub",
+  "repository": "https://github.com/whitegloveai/claude-skills-gov",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "public-safety",
+  "description": "Claude skills for police, fire, EMS, and emergency management in local government. Incident narratives, training bulletins, after-action reports, community engagement, emergency comms. TRAIGA-aware, NIST AI RMF aligned.",
+  "version": "1.0.0",
+  "author": {
+    "name": "WhitegloveAI",
+    "email": "skills@whitegloveai.com",
+    "url": "https://whitegloveai.com"
+  },
+  "homepage": "https://whitegloveai.com/govhub",
+  "repository": "https://github.com/whitegloveai/claude-skills-gov",
+  "license": "MIT"
+}
