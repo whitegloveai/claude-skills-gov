@@ -69,25 +69,25 @@ For accommodation correspondence specifically, AI-assisted drafts are starting p
 
 **EEOC AI guidance:** Where the city uses AI in screening or evaluation, the EEOC's 2023 technical assistance requires the accommodation process to address the AI tool itself. An employee with a disability may need an accommodation to the AI-mediated process.
 
-**ADA/ADAAA framework:** 42 U.S.C. § 12101 et seq.; 29 C.F.R. Part 1630. Reasonable accommodation includes job restructuring, modified schedules, reassignment to a vacant position, equipment acquisition, and qualified readers or interpreters. Undue hardship considers nature and cost, the city's overall resources, and operational impact.
+**ADA/ADAAA framework:** 42 U.S.C. § 12101 et seq.; 29 C.F.R. Part 1630. Reasonable accommodation includes job restructuring, modified schedules, vacant-position reassignment, equipment, and qualified readers or interpreters. Undue hardship considers cost, overall resources, and operational impact.
 
-**Medical inquiries:** Limited to what is necessary. Do not seek diagnoses; seek limitations, restrictions, and duration. Use GINA safe-harbor language.
+**Medical inquiries:** Limited to what is necessary. Seek limitations and duration, not diagnoses. Use GINA safe-harbor language.
 
-**Direct threat:** A significant risk of substantial harm that cannot be eliminated or reduced by accommodation. Fact-intensive; needs medical input and counsel.
+**Direct threat:** A significant risk of substantial harm that accommodation cannot reduce. Fact-intensive; needs medical input and counsel.
 
-**Reassignment:** Accommodation of last resort; to a vacant position for which the employee is qualified. The employer is not required to displace another employee or create a position. In Ch. 143 or Ch. 158 jurisdictions, reassignment interacts with classification and seniority.
+**Reassignment:** Last-resort accommodation to a vacant position for which the employee is qualified. The employer need not displace or create. Civil service (Ch. 143/158) interacts with classification.
 
-**Leave as accommodation:** Reasonable when finite and likely to return the employee to essential functions. Indefinite leave is generally not reasonable. Coordinate with FMLA (29 U.S.C. § 2601 et seq.).
+**Leave as accommodation:** Reasonable when finite. Indefinite leave generally is not. Coordinate with FMLA (29 U.S.C. § 2601 et seq.).
 
-**Workers' comp interaction:** If the limitation arose from a work injury, Tex. Lab. Code Title 5 obligations run in parallel with the ADA analysis; the two are separate.
+**Workers' comp:** Work-injury limitations trigger Tex. Lab. Code Title 5 obligations in parallel with ADA; the two are separate.
 
-**Confidentiality:** Medical information must be maintained separately from the personnel file under 29 C.F.R. § 1630.14.
+**Confidentiality:** Maintain medical information separately from the personnel file (29 C.F.R. § 1630.14).
 
-**Public records:** Accommodation files contain medical information exempt under Tex. Gov't Code § 552.117. Tex. Gov't Code Ch. 552 (Public Information Act) is separate from Tex. Bus. & Comm. Code Ch. 552 (TRAIGA).
+**Public records:** Accommodation files contain medical information exempt under Tex. Gov't Code § 552.117. Note: TPIA Ch. 552 (Gov't Code) is separate from TRAIGA Ch. 552 (Bus. & Comm. Code).
 
-**Retention:** Per Texas State Library Local Government Retention Schedule GR.
+**Retention:** Per TSLAC Schedule GR.
 
-**Counsel review:** Direct threat, leave-as-accommodation beyond short-term, reassignment, and denials require city attorney review before issuance.
+**Counsel review:** Direct threat, extended leave, reassignment, and denials require city attorney review before issuance.
 
 ## References
 

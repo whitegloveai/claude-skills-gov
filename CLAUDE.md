@@ -236,7 +236,7 @@ Build all of these. Author at production quality.
 - collection-development-justifier
 - community-partnership-proposal
 
-Total: 65 skills across 13 plugins.
+Total: 68 skills across 13 plugins.
 
 ## Voice & Tone Standards
 

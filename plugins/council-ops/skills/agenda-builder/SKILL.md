@@ -121,18 +121,17 @@ However, transparency about AI assistance in document drafting is sound practice
 
 **Texas Open Meetings Act (Tex. Gov't Code Ch. 551):**
 
-- § 551.041 — Notice must include time, place, and subject of each item.
-- § 551.043 — Regular and special meetings require posting at least 72 hours before the scheduled time.
-- § 551.045 — Emergency meetings require at least 1 hour notice with a written supplemental notice stating the emergency.
-- § 551.056 — Posting on internet website also required for cities with population 48,000+.
-- § 551.07x — Executive sessions must be specifically authorized; the agenda must cite the section.
-- The agenda is a public record under Ch. 552.
+- § 551.041 — Notice must state time, place, and subject of each item.
+- § 551.043 — Regular and special meetings require posting at least 72 hours in advance.
+- § 551.045 — Emergency meetings require 1-hour notice with written supplemental notice of the emergency.
+- § 551.056 — Internet posting required for cities of 48,000+.
+- § 551.07x — Executive sessions require specific citation.
 
-**Public Records (Tex. Gov't Code Ch. 552):** The posted agenda is a public record. Drafts and internal comments may be exempt under § 552.111 (agency memoranda) until posted.
+**Public Records:** The posted agenda is public under Tex. Gov't Code Ch. 552. Drafts may be exempt under § 552.111 until posted.
 
-**Retention:** Posted agendas retain permanently per Texas State Library Local Government Retention Schedule GR (General Records), Item 1000-26 (Meeting Notices and Agendas).
+**Retention:** Posted agendas retain permanently per TSLAC Schedule GR Item 1000-26.
 
-**Verify before posting:** Statutory citations, meeting time/place, and any required ancillary notices (tax rate hearings, zoning notice to property owners, etc.).
+**Verify before posting:** Statutory citations, meeting time/place, and any required ancillary notices (tax rate hearings, zoning notices).
 
 ## References
 

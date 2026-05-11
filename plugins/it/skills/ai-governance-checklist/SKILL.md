@@ -65,19 +65,17 @@ Status: Draft | Under review | Approved | Approved with conditions | Not approve
    AI informs or makes; who retains decision authority.
 
 4. CITIZEN INTERACTION SCREEN — § 552.051 TRIGGER
-   A. Does the AI place a citizen in direct interaction with an AI
-      system? [Yes / No]
-   B. Does the AI inform or make a decision affecting a citizen's
-      rights, benefits, or legal status? [Yes / No]
-   C. Could a reasonable citizen mistake this AI for a human in the
-      course of municipal service delivery? [Yes / No]
+   A. Direct citizen-AI interaction? [Yes / No]
+   B. AI informs or makes a decision affecting citizen rights, benefits,
+      or legal status? [Yes / No]
+   C. Could a citizen mistake the AI for a human? [Yes / No]
    Any Yes routes to § 552.051 disclosure plan in § 11.
 
 5. RISK CLASSIFICATION — Low | Medium | High | Prohibited.
    Drivers: citizen impact, data class, automation level, reversibility.
 
 6. NIST AI RMF FUNCTION ALIGNMENT — Govern, Map, Measure, Manage with
-   specific subcategories and how each is met.
+   subcategories and how each is met.
 
 7. GENERATIVE AI PROFILE CROSS-CUTS (if applicable) — e.g., GV-1.1,
    MP-2.2, MS-1.3, MG-1.1.
@@ -87,8 +85,7 @@ Status: Draft | Under review | Approved | Approved with conditions | Not approve
 
 9. AUTOMATION LEVEL — Advisory | Substantial-assist | Autonomous.
 
-10. PERFORMANCE MEASUREMENT AND REVIEW — metrics (accuracy, fairness,
-    latency, drift); cadence; reviewer.
+10. PERFORMANCE MEASUREMENT AND REVIEW — metrics, cadence, reviewer.
 
 11. TRAIGA APPLICABILITY AND DISCLOSURE PLAN
     If § 552.051 triggered: disclosure language; method (banner, voice
@@ -131,7 +128,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## References
 
-- See `references/nist-ai-rmf-functions-mapping.md` for the NIST AI RMF 1.0 four functions and the most relevant subcategories for municipal AI deployments, tied to Generative AI Profile cross-cuts and the TRAIGA safe harbor.
+- See `references/nist-ai-rmf-functions-mapping.md` for NIST AI RMF 1.0 functions, the Generative AI Profile cross-cuts, and the TRAIGA safe harbor.
 
 ## Examples
 
