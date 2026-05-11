@@ -10,7 +10,7 @@ Claude skills for the city attorney's office. Built for city attorneys, assistan
 | [ordinance-impact-analyzer](skills/ordinance-impact-analyzer) | Analyzes a proposed ordinance for conflicts with existing code, charter, and state law |
 | [tpia-legal-review](skills/tpia-legal-review) | Reviews a TPIA response for required AG referral, exception assertions, and redaction completeness |
 | [litigation-summary-helper](skills/litigation-summary-helper) | Drafts a privileged-work-product litigation summary for council executive session |
-| [interlocal-agreement-drafter](skills/interlocal-agreement-drafter) | Drafts an interlocal cooperation agreement under Tex. Gov. Code Ch. 791 |
+| [interlocal-agreement-drafter](skills/interlocal-agreement-drafter) | Drafts an interlocal cooperation agreement under Tex. Gov't Code Ch. 791 |
 
 ## Install
 
