@@ -90,7 +90,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/email-records-request-response.md` for a worked example: a Cedar Ridge response to a request for council member emails about a zoning matter, showing partial redaction under § 552.107 attorney-client privilege and a § 552.301 AG referral on one portion.
+- See `examples/email-records-request-response.md` for a worked example: a response to a request for council member emails about a zoning matter, showing partial redaction under § 552.107 attorney-client privilege and a § 552.301 AG referral on one portion.
 
 ---
 

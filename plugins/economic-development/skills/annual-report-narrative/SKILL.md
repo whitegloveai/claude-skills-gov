@@ -9,7 +9,7 @@ description: Drafts the narrative sections of an Economic Development Corporatio
 
 ## When to Use
 
-- "Draft the FY2025 annual report narrative for the Cedar Ridge EDC."
+- "Draft the FY2025 annual report narrative for the EDC."
 - "Build the year-in-review and project portfolio sections for the board chair."
 - "Write the executive director's letter for this year's annual report."
 - "Create the looking-ahead section tied to the FY2026 strategic plan."
@@ -92,7 +92,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/cedar-ridge-edc-fy2025-annual-report.md` for the Cedar Ridge EDC FY2025 annual report narrative covering 4 completed projects (totaling $52M capital, 380 jobs), 6 active projects, and the EDC's $1.8M operating budget with sales-tax-revenue trends.
+- See `examples/cedar-ridge-edc-fy2025-annual-report.md` for an EDC FY2025 annual report narrative covering 4 completed projects (totaling $52M capital, 380 jobs), 6 active projects, and the EDC's $1.8M operating budget with sales-tax-revenue trends.
 
 ---
 

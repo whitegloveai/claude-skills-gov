@@ -124,7 +124,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/two-findings-fy2025.md` for a worked example: Cedar Ridge FY2025 management responses to two findings — a significant deficiency in travel reimbursement controls and a Single Audit compliance finding on Davis-Bacon documentation.
+- See `examples/two-findings-fy2025.md` for a worked example: FY2025 management responses to two findings — a significant deficiency in travel reimbursement controls and a Single Audit compliance finding on Davis-Bacon documentation.
 
 ---
 

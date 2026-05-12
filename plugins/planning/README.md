@@ -23,6 +23,10 @@ Claude skills for planning and development services. Built for planners, plannin
 
 These skills target Texas Local Government Code Chapters 211 (zoning) and 212 (subdivision), TOMA, and the procedural requirements that apply to land-use decisions. Findings of fact and conclusions of law in any document going to P&Z or council should be reviewed by the city attorney.
 
+## Notes on Examples
+
+Examples in this plugin reference the fictional City of Cedar Ridge, TX for continuity across skills. The skill logic is jurisdiction-agnostic — adapt example specifics to your city.
+
 ## License
 
 [MIT](../../LICENSE).

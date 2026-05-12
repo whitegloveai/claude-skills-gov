@@ -132,7 +132,7 @@ This skill does not require a separate reference file; the onboarding sequence i
 
 ## Examples
 
-- See `examples/police-officer-onboarding.md` for a worked example: full onboarding packet for a Cedar Ridge police officer (sworn, civil service, TCOLE-licensed), including the oath of office, TCOLE verification, Garrity warning training, and the civil service probationary period.
+- See `examples/police-officer-onboarding.md` for a worked example: full onboarding packet for a police officer (sworn, civil service, TCOLE-licensed), including the oath of office, TCOLE verification, Garrity warning training, and the civil service probationary period.
 
 ---
 

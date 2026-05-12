@@ -123,7 +123,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/council-emails-review.md` for a worked example: legal review of the Cedar Ridge clerk's draft response on the Z-2026-04 zoning emails request, refining the § 552.107 privilege assertion and the § 552.301 AG referral.
+- See `examples/council-emails-review.md` for a worked example: legal review of the clerk's draft response on a zoning emails request, refining the § 552.107 privilege assertion and the § 552.301 AG referral.
 
 > **Advisory scaffolding — not legal advice. Review by city attorney required.**
 

@@ -22,6 +22,10 @@ Claude skills for public works. Built for public works directors, engineers, fle
 
 These skills support routine operational and CIP documentation. They do not certify engineering work product. Anything requiring a P.E. seal must be signed by a licensed engineer.
 
+## Notes on Examples
+
+Examples in this plugin reference the fictional City of Cedar Ridge, TX for continuity across skills. The skill logic is jurisdiction-agnostic — adapt example specifics to your city.
+
 ## License
 
 [MIT](../../LICENSE).

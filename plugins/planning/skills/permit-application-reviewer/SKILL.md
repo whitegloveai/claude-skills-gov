@@ -105,7 +105,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/residential-addition-permit-review.md` for a worked example: review of a building permit submittal for a residential addition in Cedar Ridge, returning an "incomplete — return for additional information" decision with three missing items and one code discrepancy.
+- See `examples/residential-addition-permit-review.md` for a worked example: review of a building permit submittal for a residential addition, returning an "incomplete — return for additional information" decision with three missing items and one code discrepancy.
 
 ---
 

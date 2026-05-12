@@ -134,7 +134,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/water-rate-adjustment-talking-points.md` for Cedar Ridge talking points on the proposed water rate adjustment (the subject of the council-ops decision-memo-writer example).
+- See `examples/water-rate-adjustment-talking-points.md` for talking points on a proposed water rate adjustment (the subject of the council-ops decision-memo-writer example).
 
 ---
 

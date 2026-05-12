@@ -128,7 +128,7 @@ Length: 2–4 pages. Tone: factual, time-stamped.
 
 ## Examples
 
-- See `examples/utility-billing-ransomware.md` for a worked example: a Sev 1 ransomware incident on the City of Cedar Ridge utility billing system with multiple notification triggers (cyber insurance, DIR, council, customers under § 521.053, AG, vendor, FBI/CISA).
+- See `examples/utility-billing-ransomware.md` for a worked example: a Sev 1 ransomware incident on a city utility billing system with multiple notification triggers (cyber insurance, DIR, council, customers under § 521.053, AG, vendor, FBI/CISA).
 
 ---
 

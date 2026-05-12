@@ -130,7 +130,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/cedar-ridge-pavement-condition-report-2025.md` for a Cedar Ridge 2025 pavement condition report covering 87 lane-miles of city-maintained roads, with PCI distribution (52% Good, 23% Fair, 18% Poor, 7% Failed), identifying the FY2026 overlay program as the right operational response, recommending a 10-year resurfacing cycle for the worst quartile.
+- See `examples/cedar-ridge-pavement-condition-report-2025.md` for a 2025 pavement condition report covering 87 lane-miles of city-maintained roads, with PCI distribution (52% Good, 23% Fair, 18% Poor, 7% Failed), identifying the FY2026 overlay program as the right operational response, recommending a 10-year resurfacing cycle for the worst quartile.
 
 ---
 

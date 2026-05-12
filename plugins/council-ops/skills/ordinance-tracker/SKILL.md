@@ -110,7 +110,7 @@ This skill does not require a separate reference file; the SKILL.md captures the
 
 ## Examples
 
-- See `examples/tree-preservation-ordinance.md` for a worked example: tracking record for a Cedar Ridge tree preservation ordinance from introduction through adoption.
+- See `examples/tree-preservation-ordinance.md` for a worked example: tracking record for a tree preservation ordinance from introduction through adoption.
 
 ---
 

@@ -113,7 +113,7 @@ This skill does not require a separate reference file; the statutory framework i
 
 ## Examples
 
-- See `examples/remote-work-policy-review.md` for a worked example: review of a draft Cedar Ridge remote work policy with high-risk findings on non-exempt timekeeping (FLSA), medium-risk findings on ADA accommodation interplay and workers' comp coverage, and low-risk findings on workplace surveillance limits.
+- See `examples/remote-work-policy-review.md` for a worked example: review of a draft municipal remote work policy with high-risk findings on non-exempt timekeeping (FLSA), medium-risk findings on ADA accommodation interplay and workers' comp coverage, and low-risk findings on workplace surveillance limits.
 
 ---
 

@@ -162,7 +162,7 @@ This skill does not require a separate reference file; the structure is captured
 
 ## Examples
 
-- See `examples/streets-supervisor-annual-eval.md` for a worked example: annual evaluation for a Cedar Ridge Streets Supervisor with goal achievement on the overlay project ramp-up and one development area on documentation completeness.
+- See `examples/streets-supervisor-annual-eval.md` for a worked example: an annual evaluation for a Streets Supervisor with goal achievement on the overlay project ramp-up and one development area on documentation completeness.
 
 ---
 

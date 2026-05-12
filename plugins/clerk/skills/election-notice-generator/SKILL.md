@@ -89,7 +89,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/bond-election-notice.md` for a worked example: a $25 million general obligation street improvement bond election notice for the City of Cedar Ridge, in English and Spanish.
+- See `examples/bond-election-notice.md` for a worked example: a $25 million general obligation street improvement bond election notice in English and Spanish.
 
 ---
 

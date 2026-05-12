@@ -9,7 +9,7 @@ description: Drafts a response to a confidential site selection RFI covering wor
 
 ## When to Use
 
-- "Build a response to the Project Falcon distribution center RFI."
+- "Build a response to the distribution center RFI."
 - "We have 14 days to respond to a confidential site selector RFI. Draft it."
 - "Format the workforce, sites, and utilities sections for a 480,000-sf project."
 - "Draft the incentives section using our adopted Ch. 380 framework."
@@ -89,7 +89,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/cedar-ridge-distribution-center-rfi-response.md` for a Cedar Ridge response to a confidential site selection RFI for a 480,000-sf regional distribution center: $40M capital, 250 jobs, identifying a 32-acre business park site, transportation access to the I-35 corridor, and a layered incentive package.
+- See `examples/cedar-ridge-distribution-center-rfi-response.md` for a response to a confidential site selection RFI for a 480,000-sf regional distribution center: $40M capital, 250 jobs, identifying a 32-acre business park site, transportation access to the I-35 corridor, and a layered incentive package.
 
 ---
 

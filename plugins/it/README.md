@@ -22,6 +22,10 @@ Claude skills for local government IT. Built for CIOs, IT directors, security of
 
 These skills are aligned with NIST AI RMF, NIST Cybersecurity Framework, TRAIGA (Tex. Bus. & Comm. Code Ch. 552), HB 3512 (AI literacy training), and Texas DIR cybersecurity reporting rules. Drafts produced here are intended as starting points for the official record; final approval should come from the CIO or governing body.
 
+## Notes on Examples
+
+Examples in this plugin reference the fictional City of Cedar Ridge, TX for continuity across skills. The skill logic is jurisdiction-agnostic — adapt example specifics to your city.
+
 ## License
 
 [MIT](../../LICENSE).

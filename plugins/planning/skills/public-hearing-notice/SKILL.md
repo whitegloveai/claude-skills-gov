@@ -9,9 +9,9 @@ description: Drafts the three-part public hearing notice package (newspaper publ
 
 ## When to Use
 
-- "Draft the public hearing notices for Case Z-2026-04, the Pecan Street rezoning."
-- "I need the three-part notice package for a variance hearing on the corner lot at 503 Hickory."
-- "Set up the plat hearing notices for the Live Oak Crossing replat."
+- "Draft the public hearing notices for a Main Street rezoning case."
+- "I need the three-part notice package for a variance hearing on a corner lot."
+- "Set up the plat hearing notices for a subdivision replat."
 - "Generate the newspaper notice, mailed notices, and posted-sign content for the SUP hearing."
 - A planning case is scheduled for a public hearing and the city must publish, mail, and (per local ordinance) post notice before the hearing date.
 
@@ -125,7 +125,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/z-2026-04-public-hearing-notices.md` for a worked example: the full three-part notice package for Case Z-2026-04, the rezoning at 1100 Pecan Street in the City of Cedar Ridge, with mailed notice to property owners within 200 feet.
+- See `examples/z-2026-04-public-hearing-notices.md` for a worked example: a full three-part notice package for a fictional rezoning case, with mailed notice to property owners within 200 feet.
 
 ---
 

@@ -20,7 +20,7 @@ description: Drafts a budget-to-actual variance memo for a monthly or quarterly 
 
 Required:
 
-- Entity name, fund, and reporting period (e.g., "City of Cedar Ridge, General Fund, Q3 FY2026" or "Month ended April 30, 2026")
+- Entity name, fund, and reporting period (e.g., "City of [Your City], General Fund, Q3 FY2026" or "Month ended April 30, 2026")
 - Budget vs actual figures by line item or by category, with both period and year-to-date columns
 - Materiality threshold (commonly 10 percent and $25,000, or whatever the city's financial policies specify)
 - Prior-period trend context — at minimum prior-year YTD for the same period
@@ -115,7 +115,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/q3-fy2026-general-fund-variance.md` for a worked example: a Q3 FY2026 General Fund variance memo for the fictional City of Cedar Ridge, TX.
+- See `examples/q3-fy2026-general-fund-variance.md` for a worked example: a Q3 FY2026 General Fund variance memo for a fictional Texas city.
 
 ---
 

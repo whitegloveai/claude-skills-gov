@@ -120,7 +120,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/city-manager-annual-disclosure.md` for a worked example: City Manager Daniel Ahn's annual financial disclosure for calendar year 2025, filed with the Cedar Ridge City Secretary.
+- See `examples/city-manager-annual-disclosure.md` for a worked example: a City Manager's annual financial disclosure for calendar year 2025, filed with the City Secretary.
 
 ---
 

@@ -114,7 +114,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/cedar-ridge-fy2025-transparency-summary.md` for a worked example: the FY2025 transparency summary for the fictional City of Cedar Ridge, TX.
+- See `examples/cedar-ridge-fy2025-transparency-summary.md` for a worked example: a FY2025 transparency summary for a fictional Texas city.
 
 ---
 

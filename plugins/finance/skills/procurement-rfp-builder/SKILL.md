@@ -134,7 +134,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/cedar-ridge-street-overlay-rfp.md` for a worked example: the FY2026 Cedar Ridge street overlay RFP (~$1.8M, ~12 lane-miles). This RFP produced the bidders for the council-ops agenda Item 6a.
+- See `examples/cedar-ridge-street-overlay-rfp.md` for a worked example: a FY2026 street overlay RFP (~$1.8M, ~12 lane-miles). This RFP produced the bidders for the council-ops agenda Item 6a.
 
 ---
 

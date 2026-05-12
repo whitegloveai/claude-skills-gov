@@ -115,7 +115,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/setback-variance-corner-lot.md` for a worked example: variance analysis for a 5-foot side-yard setback reduction on a corner lot in the City of Cedar Ridge, finding the unique-hardship standard met because the corner lot has two front yards under the code.
+- See `examples/setback-variance-corner-lot.md` for a worked example: variance analysis for a 5-foot side-yard setback reduction on a corner lot, finding the unique-hardship standard met because the corner lot has two front yards under the code.
 
 ---
 

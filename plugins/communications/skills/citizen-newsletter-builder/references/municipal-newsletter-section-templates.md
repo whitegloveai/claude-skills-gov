@@ -1,6 +1,6 @@
 # Municipal Newsletter Section Templates
 
-Reusable 50–100 word boilerplate blocks for recurring newsletter sections. Replace bracketed fields with current numbers, dates, and contact information before publishing. Each template is jurisdiction-neutral; the example placeholders use Cedar Ridge for consistency with the example folder.
+Reusable 50–100 word boilerplate blocks for recurring newsletter sections. Replace bracketed fields with current numbers, dates, and contact information before publishing. Each template is jurisdiction-neutral; placeholders use a fictional city, consistent with the example folder.
 
 ## 1. Budget Update
 

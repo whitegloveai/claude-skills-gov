@@ -100,7 +100,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/mixed-public-works-documents.md` for a worked example: classification of five documents from Cedar Ridge public works (work order log, change order, service contract, traffic study, retired pump test report).
+- See `examples/mixed-public-works-documents.md` for a worked example: classification of five documents from a public works department (work order log, change order, service contract, traffic study, retired pump test report).
 
 ---
 

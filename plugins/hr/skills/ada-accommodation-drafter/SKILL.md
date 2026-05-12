@@ -95,7 +95,7 @@ For accommodation correspondence specifically, AI-assisted drafts are starting p
 
 ## Examples
 
-- See `examples/building-inspector-accommodation-memo.md` for a worked example: accommodation analysis memo for a Cedar Ridge Building Inspector with a back injury, evaluating a modified field-duty rotation, ergonomic vehicle equipment, and a possible reassignment to plan review in the Planning Department.
+- See `examples/building-inspector-accommodation-memo.md` for a worked example: accommodation analysis memo for a Building Inspector with a back injury, evaluating a modified field-duty rotation, ergonomic vehicle equipment, and a possible reassignment to plan review in the Planning Department.
 
 ---
 

@@ -26,6 +26,10 @@ Emergency comms output is a draft. In an active emergency, the incident commande
 
 These skills are designed to be compatible with NIMS/ICS terminology and standard AAR formats used by FEMA and the Texas Division of Emergency Management.
 
+## Notes on Examples
+
+Examples in this plugin reference the fictional City of Cedar Ridge, TX for continuity across skills. The skill logic is jurisdiction-agnostic — adapt example specifics to your city.
+
 ## License
 
 [MIT](../../LICENSE).

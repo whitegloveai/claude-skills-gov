@@ -28,7 +28,7 @@ Required:
 
 Optional:
 
-- Agency bulletin number format (Cedar Ridge PD uses TB-YYYY-### for training bulletins).
+- Agency bulletin number format (a common convention is TB-YYYY-### for training bulletins).
 - TCOLE / TCFP / DSHS training credit category if credit will be claimed.
 - Roll-call discussion questions the training officer wants included.
 - Required documentation of receipt (signature sheet, RMS acknowledgment, LMS module).
@@ -137,7 +137,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/4th-amendment-vehicle-search-bulletin.md` for a Cedar Ridge PD training bulletin on consent searches of vehicles after *Caniglia v. Strom* and *Lange v. California*, authored by Sgt. James Holloway and signed by Chief Eduardo Vega.
+- See `examples/4th-amendment-vehicle-search-bulletin.md` for a police department training bulletin on consent searches of vehicles after *Caniglia v. Strom* and *Lange v. California*.
 
 ---
 

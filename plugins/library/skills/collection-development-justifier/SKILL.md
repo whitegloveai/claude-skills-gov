@@ -110,7 +110,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/young-adult-novel-reconsideration-response.md` for a worked example: a reconsideration response from the Cedar Ridge Public Library on a fictional young adult novel, covering the review record, the policy criteria satisfied, the access age placement, and the appeal pathway to the library board.
+- See `examples/young-adult-novel-reconsideration-response.md` for a worked example: a reconsideration response from a public library on a fictional young adult novel, covering the review record, the policy criteria satisfied, the access age placement, and the appeal pathway to the library board.
 
 ---
 

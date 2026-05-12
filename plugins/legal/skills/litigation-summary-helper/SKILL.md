@@ -135,7 +135,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/smith-v-cedar-ridge-litigation-summary.md` for a worked example: a privileged litigation summary in a slip-and-fall premises-liability case against the City of Cedar Ridge, with immunity defense under the Tort Claims Act, discovery status, and a recommendation on a mediation offer.
+- See `examples/smith-v-cedar-ridge-litigation-summary.md` for a worked example: a privileged litigation summary in a slip-and-fall premises-liability case against a city, with immunity defense under the Tort Claims Act, discovery status, and a recommendation on a mediation offer.
 
 > **Advisory scaffolding — not legal advice. Review by city attorney required.**
 

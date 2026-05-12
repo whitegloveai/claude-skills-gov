@@ -23,6 +23,10 @@ Claude skills for the city clerk's office. Built for clerks, deputy clerks, and 
 
 These skills target Texas Public Information Act (Gov. Code Ch. 552), Texas Open Meetings Act (Gov. Code Ch. 551), Texas Election Code, and the State Library and Archives Commission Local Government Records Retention Schedules. Statutory citations should be verified against current law before relying on output.
 
+## Notes on Examples
+
+Examples in this plugin reference the fictional City of Cedar Ridge, TX for continuity across skills. The skill logic is jurisdiction-agnostic — adapt example specifics to your city.
+
 ## License
 
 [MIT](../../LICENSE).

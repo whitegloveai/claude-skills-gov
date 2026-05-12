@@ -130,7 +130,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/elementary-summer-reading-partnership.md` for a worked example: a partnership proposal between Cedar Ridge Public Library and Cedar Ridge ISD elementary schools for a summer reading program across the four elementary campuses, library-supplied books and digital access, ISD-supplied teachers for an end-of-summer book club, joint evaluation, and a two-year term renewable.
+- See `examples/elementary-summer-reading-partnership.md` for a worked example: a partnership proposal between a city public library and the local ISD elementary schools for a summer reading program across four elementary campuses, library-supplied books and digital access, ISD-supplied teachers for an end-of-summer book club, joint evaluation, and a two-year term renewable.
 
 ---
 

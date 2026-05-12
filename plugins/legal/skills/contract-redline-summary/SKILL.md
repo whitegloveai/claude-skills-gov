@@ -116,7 +116,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/saas-permit-tracking-redline-summary.md` for a worked example: a redline summary memo on Cedar Ridge's SaaS permit-tracking contract showing 14 vendor edits with three high-risk flags on data ownership, indemnification, and breach notification timing.
+- See `examples/saas-permit-tracking-redline-summary.md` for a worked example: a redline summary memo on a SaaS permit-tracking contract showing 14 vendor edits with three high-risk flags on data ownership, indemnification, and breach notification timing.
 
 > **Advisory scaffolding — not legal advice. Review by city attorney required.**
 

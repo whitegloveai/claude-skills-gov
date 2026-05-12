@@ -62,7 +62,7 @@ FROM THE CITY MANAGER / MAYOR
 [Name], [Title]]
 
 WHAT COUNCIL DECIDED
-At the [date] regular meeting, the Cedar Ridge City Council:
+At the [date] regular meeting, the City Council:
 - [Action 1 — short description, vote count if contested]
 - [Action 2]
 - [Action 3]
@@ -124,7 +124,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 **ADA accessibility:** Online newsletters must meet WCAG 2.1 AA. PDFs should be tagged with proper reading order, headings, and alt text. Mailed editions should use at least 12-point body type. Provide a large-print version on request.
 
-**Spanish translation:** For jurisdictions with significant Spanish-speaking populations (5% or greater LEP under DOJ guidance), include a Spanish summary box at minimum. Cedar Ridge-style cities with ~30% Spanish-speaking households should publish a fully bilingual edition.
+**Spanish translation:** For jurisdictions with significant Spanish-speaking populations (5% or greater LEP under DOJ guidance), include a Spanish summary box at minimum. Cities with very high Spanish-speaking populations (roughly 25%+ LEP) should publish a fully bilingual edition.
 
 **Plain language:** Target 8th-grade reading level. Spell out acronyms on first use. Replace bureaucratese with plain verbs. Use specific dollar amounts and dates, not "significant investment" or "in the near future."
 
@@ -138,7 +138,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/cedar-ridge-july-2026-newsletter.md` for a worked example: the City of Cedar Ridge July 2026 newsletter (post-budget-adoption issue) with manager column, council decisions from the June 9 meeting, street overlay project update, and parks summer programming.
+- See `examples/cedar-ridge-july-2026-newsletter.md` for a worked example: a July 2026 newsletter (post-budget-adoption issue) with manager column, council decisions from the June 9 meeting, street overlay project update, and parks summer programming.
 
 ---
 

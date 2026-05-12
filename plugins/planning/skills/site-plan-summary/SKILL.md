@@ -9,7 +9,7 @@ description: Summarizes a submitted site plan against the city's dimensional sta
 
 ## When to Use
 
-- "Summarize the site plan for the mixed-use project at 800 Live Oak Drive."
+- "Summarize the site plan for the mixed-use project on Main Street."
 - "Run a site plan review on the proposed convenience store at 1500 FM 1200."
 - "I need a development review committee memo for the apartment site plan at Cedar Crossing."
 - "The Planning Commission is reviewing this site plan next week — write the memo."
@@ -135,7 +135,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/cedar-ridge-mixed-use-site-plan.md` for a worked example: site plan review memo for a 2.4-acre mixed-use development at 800 Live Oak Drive in the City of Cedar Ridge, with 12,000 sf retail on the ground floor and 32 residential units above.
+- See `examples/cedar-ridge-mixed-use-site-plan.md` for a worked example: site plan review memo for a 2.4-acre mixed-use development with 12,000 sf retail on the ground floor and 32 residential units above.
 
 ---
 

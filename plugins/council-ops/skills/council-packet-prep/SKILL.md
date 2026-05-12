@@ -21,7 +21,7 @@ Required:
 
 - The posted (or near-final) agenda
 - List of agenda items that require packet support, with item type for each (contract, zoning, budget, public hearing, resolution, ordinance, appointment, report, etc.)
-- Known attachments and their preparers (e.g., "Item 5b: P&Z staff report — Planning Director Okafor")
+- Known attachments and their preparers (e.g., "Item 5b: P&Z staff report — Planning Director")
 - City Manager name (signs the cover memo)
 
 Optional:
@@ -118,7 +118,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/cedar-ridge-packet-cover.md` for a worked example: cover memo and attachment index for the same Cedar Ridge regular meeting used in the agenda-builder example.
+- See `examples/cedar-ridge-packet-cover.md` for a worked example: cover memo and attachment index for the regular meeting used in the agenda-builder example.
 
 ---
 

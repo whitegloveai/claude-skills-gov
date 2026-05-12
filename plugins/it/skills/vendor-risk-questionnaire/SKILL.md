@@ -140,7 +140,7 @@ Tone: factual, neutral. Flag concerns specifically.
 
 ## Examples
 
-- See `examples/saas-permit-tracking-vendor.md` — a completed questionnaire for a fictional SaaS permit-tracking vendor under evaluation by the City of Cedar Ridge, TX, with flagged gaps (no FedRAMP, no geographic subprocessor detail, no DPA template).
+- See `examples/saas-permit-tracking-vendor.md` — a completed questionnaire for a fictional SaaS permit-tracking vendor under evaluation by a Texas city, with flagged gaps (no FedRAMP, no geographic subprocessor detail, no DPA template).
 
 ---
 

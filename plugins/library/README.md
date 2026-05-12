@@ -22,6 +22,10 @@ The collection-development-justifier skill is built around the American Library 
 
 Program descriptions intended for citizen-facing channels include the TRAIGA-required AI-interaction disclosure where the citizen interacts with AI directly. Static program descriptions do not require disclosure but should be reviewed by staff before publication.
 
+## Notes on Examples
+
+Examples in this plugin reference the fictional City of Cedar Ridge, TX for continuity across skills. The skill logic is jurisdiction-agnostic — adapt example specifics to your city.
+
 ## License
 
 [MIT](../../LICENSE).

@@ -38,7 +38,7 @@ Optional:
 ## Process
 
 1. Confirm this is a resolution, not an ordinance. Resolutions express council position, recognize people, or authorize specific routine acts. They do not change the city code, levy taxes, or enact penalties — those require ordinances.
-2. Draft the title. Resolutions are titled by their purpose (e.g., "A Resolution of the City Council of the City of Cedar Ridge Honoring …").
+2. Draft the title. Resolutions are titled by their purpose (e.g., "A Resolution of the City Council of the City of [Your City] Honoring …").
 3. Draft the whereas clauses. Each is a single sentence stating a factual or legal predicate. Clauses build from general to specific. Avoid editorializing; cite to public records or laws where possible.
 4. Draft the now-therefore-be-it-resolved clauses. These are the operative language — what the council is actually doing.
 5. Add the passed-and-approved date and signature blocks for the mayor and city secretary.
@@ -116,7 +116,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/resolution-honoring-retiring-secretary.md` for a worked example: a recognition resolution honoring the retirement of City Secretary Helen Marquez of Cedar Ridge after twenty-five years of service. This is the same Resolution 2026-14 referenced in the agenda-builder, minutes-drafter, and council-packet-prep examples.
+- See `examples/resolution-honoring-retiring-secretary.md` for a worked example: a recognition resolution honoring the retirement of a long-serving City Secretary after twenty-five years of service. This is the same Resolution 2026-14 referenced in the agenda-builder, minutes-drafter, and council-packet-prep examples.
 
 ---
 

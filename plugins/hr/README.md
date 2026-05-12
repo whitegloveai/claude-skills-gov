@@ -23,6 +23,10 @@ Claude skills for local government HR. Built for HR directors, generalists, bene
 
 These skills target FLSA, ADA/ADAAA, Title VII, FMLA, and Texas-specific public-sector employment law (including Texas Government Code Chapter 614 for first responders and Texas Local Government Code provisions for civil service). HR decisions require human judgment and often legal review. Drafts are starting points.
 
+## Notes on Examples
+
+Examples in this plugin reference the fictional City of Cedar Ridge, TX for continuity across skills. The skill logic is jurisdiction-agnostic — adapt example specifics to your city.
+
 ## License
 
 [MIT](../../LICENSE).

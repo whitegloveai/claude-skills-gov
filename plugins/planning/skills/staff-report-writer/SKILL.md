@@ -9,8 +9,8 @@ description: Drafts the planning staff report for P&Z or City Council with case 
 
 ## When to Use
 
-- "Draft the staff report for Z-2026-04 going to P&Z next Tuesday."
-- "I need the staff report for the Live Oak Crossing plat approval."
+- "Draft the staff report for the rezoning case going to P&Z next Tuesday."
+- "I need the staff report for the plat approval."
 - "Write up the variance staff report for the ZBA on June 18."
 - "Put together a staff report for the SUP at 215 Elm for the council packet."
 - A planning case is on the agenda and the staff report must be in the packet by the city's posting deadline.
@@ -114,7 +114,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/z-2026-04-staff-report.md` for a worked example: the staff report for Case Z-2026-04, the rezoning at 1100 Pecan Street, going to the Cedar Ridge City Council on June 9, 2026. This pairs with the zoning-narrative-writer and public-hearing-notice examples in this plugin to form a complete case file.
+- See `examples/z-2026-04-staff-report.md` for a worked example: a staff report for a fictional rezoning case going to City Council on June 9, 2026. This pairs with the zoning-narrative-writer and public-hearing-notice examples in this plugin to form a complete case file.
 
 ---
 

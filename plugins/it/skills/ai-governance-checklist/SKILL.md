@@ -132,7 +132,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/genai-agenda-drafting-intake.md` for a worked example: intake for Cedar Ridge's adoption of a generative AI tool used by the council-ops `agenda-builder` skill for council agenda drafting. Risk classified medium-low; automation advisory; § 552.051 not triggered (drafts pass through staff before posting).
+- See `examples/genai-agenda-drafting-intake.md` for a worked example: intake for a city's adoption of a generative AI tool used by the council-ops `agenda-builder` skill for council agenda drafting. Risk classified medium-low; automation advisory; § 552.051 not triggered (drafts pass through staff before posting).
 
 ---
 

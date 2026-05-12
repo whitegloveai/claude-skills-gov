@@ -117,7 +117,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/public-works-week.md` for a worked example: a Cedar Ridge proclamation declaring the third week of May as Public Works Appreciation Week.
+- See `examples/public-works-week.md` for a worked example: a proclamation declaring the third week of May as Public Works Appreciation Week.
 
 ---
 

@@ -28,17 +28,17 @@ CLAUDE.md previously stated "65 skills across 13 plugins." Reconciled to **68 sk
 
 - 🟨 tpia-response-drafter (+ 1 ref: TPIA exception taxonomy)
 - 🟨 records-retention-classifier (+ 1 ref: TSLAC schedule families)
-- 🟨 open-meetings-compliance-checker — example reviews the council-ops June 9 agenda
-- 🟨 election-notice-generator — $25M Cedar Ridge bond, EN/ES
+- 🟨 open-meetings-compliance-checker
+- 🟨 election-notice-generator
 - 🟨 proclamation-writer
-- 🟨 public-notice-formatter — Cedar Ridge tax rate hearing
+- 🟨 public-notice-formatter
 
 ### finance (7/7) — Phase 2
 
 - 🟨 budget-narrative-writer (+ 1 ref: GASB framework summary)
 - 🟨 variance-analyzer
 - 🟨 grant-application-drafter (+ 1 ref: 2 C.F.R. Part 200 summary)
-- 🟨 procurement-rfp-builder — street overlay RFP feeds council-ops Item 6a
+- 🟨 procurement-rfp-builder
 - 🟨 transparency-report-generator
 - 🟨 audit-response-helper
 - 🟨 financial-disclosure-formatter
@@ -48,7 +48,7 @@ CLAUDE.md previously stated "65 skills across 13 plugins." Reconciled to **68 sk
 - 🟨 press-release-drafter
 - 🟨 citizen-newsletter-builder (+ 1 ref: section templates)
 - 🟨 social-media-municipal-style (+ 1 ref: municipal voice tone guide)
-- 🟨 talking-points-writer — ties to council-ops decision memo
+- 🟨 talking-points-writer
 - 🟨 crisis-comms-template (+ 1 ref: holding statement patterns)
 
 ### hr (6/6) — Phase 3
@@ -65,9 +65,9 @@ CLAUDE.md previously stated "65 skills across 13 plugins." Reconciled to **68 sk
 - 🟨 zoning-narrative-writer (+ 1 ref: TX zoning procedure outline)
 - 🟨 permit-application-reviewer
 - 🟨 site-plan-summary
-- 🟨 public-hearing-notice — Z-2026-04 three-part notice package
+- 🟨 public-hearing-notice
 - 🟨 variance-request-analyzer
-- 🟨 staff-report-writer — Z-2026-04 staff report
+- 🟨 staff-report-writer
 
 ### it (5/5) — Phase 3
 
@@ -82,8 +82,8 @@ CLAUDE.md previously stated "65 skills across 13 plugins." Reconciled to **68 sk
 - 🟨 contract-redline-summary (+ 1 ref: contract risk categories)
 - 🟨 ordinance-impact-analyzer (+ 1 ref: state preemption quick reference)
 - 🟨 tpia-legal-review (+ 1 ref: TPIA exception decision tree)
-- 🟨 litigation-summary-helper — *Smith v. City of Cedar Ridge*
-- 🟨 interlocal-agreement-drafter — Cedar Ridge / Caddo County animal control ILA
+- 🟨 litigation-summary-helper
+- 🟨 interlocal-agreement-drafter
 
 **Every legal SKILL.md and every legal example contains the explicit "Advisory scaffolding — not legal advice. Review by city attorney required." disclaimer line above the WhitegloveAI footer.**
 
@@ -136,47 +136,34 @@ CLAUDE.md previously stated "65 skills across 13 plugins." Reconciled to **68 sk
 - **Worked examples:** 68 (one per skill) ✓
 - **Reference files:** 29 (selective per the build plan) ✓
 - **Word count lock (800–1,200):** 68 / 68 in range ✓
-- **Citation hygiene:** zero bare `Tex. Gov. Code`; zero bare `Tex. Local Gov. Code`. Two intentional `Tex. Gov. Code` references inside clerk/open-meetings-compliance-checker/examples/cedar-ridge-agenda-review.md as the teaching example of the bare-form citation the skill flags as a recommended fix. ✓
+- **Citation hygiene:** zero bare `Tex. Gov. Code`; zero bare `Tex. Local Gov. Code`. Two intentional `Tex. Gov. Code` references appear inside one example file as the teaching demonstration of the bare-form citation the skill flags as a recommended fix. ✓
 - **TPIA-vs-TRAIGA collision:** all `§ 552.051` references correctly paired with `Tex. Bus. & Comm. Code`; all TPIA references correctly use `Tex. Gov't Code` ✓
 - **TRAIGA framing:** canonical "transparency best practice (not a § 552.051 trigger)" paragraph present in all 68 SKILL.md files ✓
 - **Legal disclaimer:** "Advisory scaffolding — not legal advice. Review by city attorney required." present in all 5 legal SKILL.md and all 5 legal examples ✓
 - **WhitegloveAI footer:** present in all 68 SKILL.md files ✓
 - **Stray `.gitkeep`:** 0 ✓
+- **Jurisdiction-agnostic instructions:** SKILL.md instructions and references files contain no jurisdiction-specific fictional canon (the fictional municipality used in worked examples is contained to `examples/` folders only) ✓
 
-## Cedar Ridge canon (cross-skill thread)
+## Cross-skill threads in the worked examples
 
-Examples across 12 of 13 plugins anchor to the fictional **City of Cedar Ridge, TX** — home-rule, council-manager, population ~32,000. Recurring named characters:
+The example folders are anchored to a single fictional Texas city used consistently across plugins so a reader can follow a coherent civic story end to end. The fictional municipality is contained to the `examples/` folders — the skills themselves are jurisdiction-agnostic.
 
-- Mayor Castillo
-- City Manager Daniel Ahn
-- City Attorney Patricia Mendoza (legal)
-- City Secretary Marisol Tovar (after June 2026; predecessor Helen Marquez)
-- Finance Director Rivera
-- HR Director Dr. Karen Asher
-- Planning Director Okafor
-- Public Works Director Renata Hsu
-- IT Director (CIO) Vihaan Joshi
-- Police Chief Eduardo Vega; Lt. Anika Patel; Sgt. James Holloway
-- ED Director Sofia Ramirez
-- Parks Director David Ngata
-- Library Director Imani Brooks, MLS
+Notable multi-skill threads in the examples:
 
-Caddo County is the surrounding county. Cedar Ridge ISD is the local school district.
-
-Multi-skill threads:
-- The June 9, 2026 council meeting (agenda → minutes → packet → resolution) lives in council-ops
-- The Z-2026-04 zoning case (1100 Pecan Street) has a complete case file across council-ops + planning (narrative + notice package + staff report)
-- The FY2026 street overlay project ties council-ops Item 6a → finance/procurement-rfp-builder → public-works/work-order-summarizer + infrastructure-condition-report
-- The boil-water incident appears in council-ops/agenda-builder, communications/crisis-comms-template, and public-safety/emergency-comms-drafter
-- *Smith v. City of Cedar Ridge* litigation appears in council-ops Item 7a executive session and legal/litigation-summary-helper
-- The Caddo County animal control ILA appears in council-ops Item 4c and legal/interlocal-agreement-drafter
+- A regular council meeting agenda flows through council-ops (agenda → minutes → packet → resolution).
+- A zoning case has a complete file across council-ops + planning (narrative + notice package + staff report).
+- The FY2026 street overlay project ties council-ops → finance/procurement-rfp-builder → public-works/work-order-summarizer + infrastructure-condition-report.
+- A boil-water incident appears in council-ops/agenda-builder, communications/crisis-comms-template, and public-safety/emergency-comms-drafter.
+- A litigation summary handles the executive session matter posted on the council-ops agenda.
+- An interlocal cooperation agreement produces the council-ops consent agenda agreement.
 
 ## Commits
 
 - `00c32f8` Phases 1-3 complete — 42 skills across 7 plugins
 - `50dcee3` Phase 3 refinements: TRAIGA framing + ADA signer-ownership
 - `e571032` Phase 4 complete — 15 skills across legal, public-safety, public-works
-- (next commit) Phase 5 + wrap — 11 final skills + CLAUDE.md reconciliation + final trims
+- `27ca86c` Phase 5 + wrap — 68 of 68 skills authored, library v1 complete
+- (next commit, pending review) Example-canon containment cleanup + "About the Examples" documentation
 
 ## Next steps (post-v1)
 

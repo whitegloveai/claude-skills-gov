@@ -119,7 +119,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/lift-station-maintenance-fy2025.md` for a worked example: the Cedar Ridge FY2025 wastewater lift station maintenance analysis covering six stations, identifying Station 3 as the CIP priority due to recurring pump failures and an aging control panel.
+- See `examples/lift-station-maintenance-fy2025.md` for a worked example: a FY2025 wastewater lift station maintenance analysis covering six stations, identifying Station 3 as the CIP priority due to recurring pump failures and an aging control panel.
 
 ---
 

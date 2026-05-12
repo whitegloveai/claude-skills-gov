@@ -22,7 +22,7 @@ description: Drafts a community-facing message from a public safety agency on a 
 Required:
 
 - Topic and the operational reason for communicating now.
-- Agency and channel (Cedar Ridge PD social, CRFD newsletter, joint city message).
+- Agency and channel (police social, fire newsletter, joint city message).
 - Target audience (residents citywide, residents of a specific neighborhood, parents, business owners).
 - Key facts the agency wants communicated.
 - Tone target (informational, cautionary, celebratory).
@@ -78,7 +78,7 @@ HOW TO ENGAGE
 
 [Sign-off]
 [Name, Title]
-[Cedar Ridge Police Department / Fire Department / OEM]
+[Police Department / Fire Department / OEM]
 
 En espanol:
 [Spanish translation of the full message, reviewed by [reviewer name].]
@@ -114,7 +114,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/traffic-enforcement-focus-month.md` for a Cedar Ridge PD community message announcing a school-zone traffic enforcement focus, signed by Chief Eduardo Vega and Lt. Anika Patel as Operations lead.
+- See `examples/traffic-enforcement-focus-month.md` for a police department community message announcing a school-zone traffic enforcement focus, signed by the Chief and Operations Lieutenant.
 
 ---
 

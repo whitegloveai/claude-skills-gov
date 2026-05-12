@@ -9,9 +9,9 @@ description: Drafts the staff narrative justification for a zoning change, speci
 
 ## When to Use
 
-- "Draft the narrative for the 1100 Pecan Street rezoning case."
+- "Draft the narrative for the 1100 Main Street rezoning case."
 - "Write up the comp plan conformance section for the special-use permit at 215 Elm."
-- "I need the surrounding land use and compatibility analysis for Z-2026-04."
+- "I need the surrounding land use and compatibility analysis for this rezoning case."
 - "Put together the staff narrative for the PD amendment going to P&Z next month."
 - A rezoning, special-use permit, or planned development case is moving toward a noticed public hearing and the case file needs the written justification that will become an exhibit if the decision is appealed under Tex. Loc. Gov't Code § 211.011.
 
@@ -100,7 +100,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/z-2026-04-pecan-street-narrative.md` for the staff narrative supporting Case Z-2026-04, a rezoning at 1100 Pecan Street in the City of Cedar Ridge from R-1 to NC-1. The narrative pairs with the public hearing notice and staff report examples elsewhere in this plugin to form a complete case file.
+- See `examples/z-2026-04-pecan-street-narrative.md` for the staff narrative supporting a fictional rezoning case from R-1 to NC-1. The narrative pairs with the public hearing notice and staff report examples elsewhere in this plugin to form a complete case file.
 
 ---
 

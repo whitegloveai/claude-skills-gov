@@ -104,11 +104,11 @@ Tone: neutral, factual, civically appropriate. No marketing superlatives ("amazi
 
 However, transparency about AI assistance in document drafting is sound practice and should align with the city's adopted AI use policy and the GovAI Coalition's guidance on documenting AI tool use. Consider a brief notation on documents distributed publicly or to the governing body: *"AI-assisted draft, reviewed by [staff title and name]."* This is a policy choice, not a statutory mandate.
 
-**AP Style baseline:** Use AP Style for dates (Jan. 9, not January 9th), titles before names (Mayor Castillo, not Castillo, Mayor), numbers (spell out one through nine; numerals for 10 and above; always numerals for ages, money, and percentages), and Oxford comma omission. Cities should adopt and document any deviations.
+**AP Style baseline:** Use AP Style for dates (Jan. 9, not January 9th), titles before names (Mayor Smith, not Smith, Mayor), numbers (spell out one through nine; numerals for 10 and above; always numerals for ages, money, and percentages), and Oxford comma omission. Cities should adopt and document any deviations.
 
 **ADA and plain language:** Target an 8th-grade reading level. Spell out acronyms on first use. Avoid jargon and bureaucratese. The Americans with Disabilities Act requires effective communication; releases posted online should meet WCAG 2.1 AA, including alt text on any accompanying images and accessible PDF if posted as PDF.
 
-**Spanish translation:** For jurisdictions with significant Spanish-speaking populations (typically 5% or greater limited-English-proficient under DOJ LEP guidance), produce a parallel Spanish version or include a Spanish summary paragraph. A Cedar Ridge-style city with ~30% Spanish-speaking households should treat bilingual release as routine, not exceptional.
+**Spanish translation:** For jurisdictions with significant Spanish-speaking populations (typically 5% or greater limited-English-proficient under DOJ LEP guidance), produce a parallel Spanish version or include a Spanish summary paragraph. Cities with very high Spanish-speaking populations (roughly 25%+ LEP) should treat bilingual release as routine, not exceptional.
 
 **Public records:** The final release is a public record under Tex. Gov't Code Ch. 552. Internal drafts, edit history, and email threads about the release may be exempt under § 552.111 (intra-agency memoranda) until released. Do not include in drafts anything that would be embarrassing if released in a TPIA response.
 
@@ -122,7 +122,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/fire-station-3-groundbreaking.md` for a Cedar Ridge release announcing the Fire Station #3 groundbreaking with quote from Mayor Castillo and PIO contact.
+- See `examples/fire-station-3-groundbreaking.md` for a release announcing a Fire Station #3 groundbreaking with quote from the Mayor and PIO contact.
 
 ---
 

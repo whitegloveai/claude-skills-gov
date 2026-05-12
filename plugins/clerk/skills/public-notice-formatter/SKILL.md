@@ -11,7 +11,7 @@ description: Formats a Texas city public notice for newspaper publication or web
 
 - "Format the tax rate hearing notice for the proposed FY2026 rate."
 - "We need the budget hearing notice published. Build it."
-- "Format the public hearing notice for the rezoning case Z-2026-04."
+- "Format the public hearing notice for a rezoning case."
 - "Draft a notice of intent to enter into a debt obligation under § 1431.009."
 - "We need a notice for the published bid solicitation under Ch. 252."
 - Any required public notice with a controlling statute that prescribes content, format, or publication deadlines.
@@ -88,7 +88,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/tax-rate-hearing-notice.md` for a worked example: a Cedar Ridge tax rate hearing notice for the proposed FY2026 rate, showing the no-new-revenue and voter-approval rate language and the homestead-impact calculation.
+- See `examples/tax-rate-hearing-notice.md` for a worked example: a tax rate hearing notice for the proposed FY2026 rate, showing the no-new-revenue and voter-approval rate language and the homestead-impact calculation.
 
 ---
 

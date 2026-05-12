@@ -26,6 +26,10 @@ These skills are designed with the Texas Open Meetings Act (Gov. Code Ch. 551) a
 
 The skills draft documents. A clerk, attorney, or manager signs them. Don't post anything to a public agenda without human review.
 
+## Notes on Examples
+
+Examples in this plugin reference the fictional City of Cedar Ridge, TX for continuity across skills. The skill logic is jurisdiction-agnostic — adapt example specifics to your city.
+
 ## License
 
 [MIT](../../LICENSE).

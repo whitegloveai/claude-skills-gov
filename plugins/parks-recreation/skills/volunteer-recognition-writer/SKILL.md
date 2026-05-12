@@ -134,7 +134,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/community-center-volunteer-recognition.md` for a complete three-format recognition package (letter, social post, spoken remarks) honoring Carmen Velasquez for 200 hours of service at the Cedar Ridge Community Center.
+- See `examples/community-center-volunteer-recognition.md` for a complete three-format recognition package (letter, social post, spoken remarks) honoring a volunteer for 200 hours of service at a Community Center.
 
 ---
 

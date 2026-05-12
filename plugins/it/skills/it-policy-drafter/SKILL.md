@@ -125,7 +125,7 @@ Transparency about AI assistance in drafting is still sound practice and should 
 
 ## Examples
 
-- See `examples/ai-use-acceptable-use-policy.md` for a worked example: a generative AI acceptable use policy for the fictional City of Cedar Ridge, TX aligned with TRAIGA, NIST AI RMF 1.0, and HB 3512.
+- See `examples/ai-use-acceptable-use-policy.md` for a worked example: a generative AI acceptable use policy for a Texas city aligned with TRAIGA, NIST AI RMF 1.0, and HB 3512.
 
 ---
 

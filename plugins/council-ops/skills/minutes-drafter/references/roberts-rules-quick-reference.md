@@ -54,8 +54,8 @@ Use this pattern:
 
 Examples:
 
-- *On a motion by Council Member Ramirez, seconded by Council Member Patel, the Council approved Resolution 2026-14. Vote: Ayes — 6 (Castillo, Ramirez, Patel, Brennan, Yu, Davies); Nays — 0; Abstain — 0; Absent — 1 (Owens). Motion carried 6–0.*
-- *On a motion by Council Member Brennan, seconded by Council Member Yu, the Council postponed Item 6a to the regular meeting of June 23, 2026. Vote: Ayes — 4; Nays — 3 (Castillo, Patel, Davies). Motion carried 4–3.*
+- *On a motion by Council Member A, seconded by Council Member B, the Council approved Resolution 2026-14. Vote: Ayes — 6 (Mayor, Members A, B, C, D, E); Nays — 0; Abstain — 0; Absent — 1 (Member F). Motion carried 6–0.*
+- *On a motion by Council Member C, seconded by Council Member D, the Council postponed Item 6a to the regular meeting of June 23, 2026. Vote: Ayes — 4; Nays — 3 (Mayor, Members A, E). Motion carried 4–3.*
 
 ## Things That Should NOT Appear in Open-Session Minutes
 

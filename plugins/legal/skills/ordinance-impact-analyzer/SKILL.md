@@ -120,7 +120,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/short-term-rental-ordinance-analysis.md` for a worked example: an impact analysis of a Cedar Ridge short-term rental ordinance, addressing HB 2127 and HB 14 preemption, charter authority, and First Amendment advertising concerns.
+- See `examples/short-term-rental-ordinance-analysis.md` for a worked example: an impact analysis of a short-term rental ordinance, addressing HB 2127 and HB 14 preemption, charter authority, and First Amendment advertising concerns.
 
 > **Advisory scaffolding — not legal advice. Review by city attorney required.**
 

@@ -138,7 +138,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/senior-accountant-cedar-ridge.md` for a worked example: the Senior Accountant position description for the Cedar Ridge Finance Department, with FLSA exempt classification rationale under the administrative exemption.
+- See `examples/senior-accountant-cedar-ridge.md` for a worked example: a Senior Accountant position description for a municipal Finance Department, with FLSA exempt classification rationale under the administrative exemption.
 
 ---
 

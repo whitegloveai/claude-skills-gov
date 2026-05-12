@@ -20,7 +20,7 @@ description: Drafts the narrative section of a department's annual budget submis
 
 Required:
 
-- Entity name and department (e.g., "City of Cedar Ridge, Parks and Recreation")
+- Entity name and department (e.g., "City of [Your City], Parks and Recreation")
 - Fiscal year being budgeted (e.g., FY2026 = Oct 1, 2025 – Sept 30, 2026)
 - Prior-year actuals (FY-just-ended), current-year adopted budget and YTD actuals, and the FY+1 ask, by program or major category
 - Departmental mission statement and two to five strategic goals
@@ -111,7 +111,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/cedar-ridge-parks-fy2026-narrative.md` for a worked example: the Parks and Recreation Department FY2026 budget narrative for the fictional City of Cedar Ridge, TX.
+- See `examples/cedar-ridge-parks-fy2026-narrative.md` for a worked example: a Parks and Recreation Department FY2026 budget narrative for a fictional Texas city.
 
 ---
 

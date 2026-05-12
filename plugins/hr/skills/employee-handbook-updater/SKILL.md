@@ -123,7 +123,7 @@ This skill does not require a separate reference file; the package structure is 
 
 ## Examples
 
-- See `examples/handbook-update-flsa-salary-threshold.md` for a worked example: a handbook update for Cedar Ridge reflecting the 2024 FLSA salary threshold rule and the City's approach to non-exempt reclassifications, with the proper procedural caveats given the rule's ongoing litigation through early 2026.
+- See `examples/handbook-update-flsa-salary-threshold.md` for a worked example: a handbook update reflecting the 2024 FLSA salary threshold rule and a City's approach to non-exempt reclassifications, with the proper procedural caveats given the rule's ongoing litigation through early 2026.
 
 ---
 

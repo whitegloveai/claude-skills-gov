@@ -9,7 +9,7 @@ description: Drafts an interlocal cooperation agreement between a Texas city and
 
 ## When to Use
 
-- "Draft the interlocal for animal control services with Caddo County for FY2026."
+- "Draft the interlocal for animal control services with the county for FY2026."
 - "We need a Ch. 791 agreement for dispatch services with the neighboring city."
 - "Convert this scope of work into an interlocal cooperation agreement."
 - "Build me a mutual aid interlocal for public works equipment sharing."
@@ -128,7 +128,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/cedar-ridge-caddo-county-animal-control-ila.md` for a worked example: a Cedar Ridge / Caddo County interlocal cooperation agreement for animal control services at a not-to-exceed $84,000 for FY2026, drafted for the May 26, 2026 council consent agenda Item 4c.
+- See `examples/cedar-ridge-caddo-county-animal-control-ila.md` for a worked example: a city/county interlocal cooperation agreement for animal control services at a not-to-exceed $84,000 for FY2026, drafted for the May 26, 2026 council consent agenda Item 4c.
 
 > **Advisory scaffolding — not legal advice. Review by city attorney required.**
 

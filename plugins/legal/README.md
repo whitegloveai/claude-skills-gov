@@ -22,6 +22,10 @@ Claude skills for the city attorney's office. Built for city attorneys, assistan
 
 Output from these skills is **not legal advice** and is not a substitute for the judgment of a licensed attorney. The skills are drafting aids for use by attorneys and authorized legal staff. Anything generated should be reviewed by a licensed attorney before being relied upon.
 
+## Notes on Examples
+
+Examples in this plugin reference the fictional City of Cedar Ridge, TX for continuity across skills. The skill logic is jurisdiction-agnostic — adapt example specifics to your city.
+
 ## License
 
 [MIT](../../LICENSE).

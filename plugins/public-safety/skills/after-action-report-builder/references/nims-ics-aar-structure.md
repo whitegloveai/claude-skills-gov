@@ -81,7 +81,7 @@ The FEMA HSEEP AAR template is the standard FEMA reviewers expect:
 4. Improvement Plan (recommendations with owners and target completion dates)
 5. Appendices: Timeline, Participants, Acronyms, Documentation
 
-Cedar Ridge has adopted a slightly streamlined version that consolidates the Improvement Plan into the Observations section under each capability, which is acceptable for internal AARs but should be reorganized into the full HSEEP structure for any AAR submitted to TDEM or FEMA.
+Some jurisdictions adopt a slightly streamlined version that consolidates the Improvement Plan into the Observations section under each capability, which is acceptable for internal AARs but should be reorganized into the full HSEEP structure for any AAR submitted to TDEM or FEMA.
 
 ## Recommendation format
 
@@ -94,13 +94,13 @@ Every recommendation must have:
 
 ## Repeat findings
 
-A "repeat finding" is a finding that appears in two or more AARs over a defined lookback (Cedar Ridge uses three years). Repeat findings receive elevated visibility in the Executive Summary and a dedicated section in the Improvement Plan. They are the most important signal an AAR can send because they identify failures of follow-through.
+A "repeat finding" is a finding that appears in two or more AARs over a defined lookback (a three-year window is common). Repeat findings receive elevated visibility in the Executive Summary and a dedicated section in the Improvement Plan. They are the most important signal an AAR can send because they identify failures of follow-through.
 
 ## Acronyms used in this reference
 
 - AAR — After-Action Report
-- CRPD — Cedar Ridge Police Department
-- CRFD — Cedar Ridge Fire Department
+- PD — Police Department
+- FD — Fire Department
 - EOC — Emergency Operations Center
 - EOP — Emergency Operations Plan
 - FEMA — Federal Emergency Management Agency

@@ -130,7 +130,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/minutes-cedar-ridge-regular.md` for a worked example: minutes for the same City of Cedar Ridge regular meeting used in the agenda-builder example.
+- See `examples/minutes-cedar-ridge-regular.md` for a worked example: minutes for the regular meeting used in the agenda-builder example.
 
 ---
 

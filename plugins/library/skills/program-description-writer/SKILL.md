@@ -102,7 +102,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/stem-saturday-program-description.md` for a worked example: a Cedar Ridge Public Library STEM Saturday robotics workshop series for ages 8 to 12, with both calendar and newsletter versions, an accessibility note, and a partner credit to a local makerspace.
+- See `examples/stem-saturday-program-description.md` for a worked example: a public library STEM Saturday robotics workshop series for ages 8 to 12, with both calendar and newsletter versions, an accessibility note, and a partner credit to a local makerspace.
 
 ---
 

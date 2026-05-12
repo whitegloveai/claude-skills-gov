@@ -136,7 +136,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/lift-station-3-replacement-cip.md` for a worked example: the Cedar Ridge Lift Station 3 replacement CIP entry, $1.4M, funded through a combination of utility rate revenue and TWDB CWSRF. Surfaced from the lift station maintenance log analysis.
+- See `examples/lift-station-3-replacement-cip.md` for a worked example: a Lift Station 3 replacement CIP entry, $1.4M, funded through a combination of utility rate revenue and TWDB CWSRF. Surfaced from the lift station maintenance log analysis.
 
 ---
 

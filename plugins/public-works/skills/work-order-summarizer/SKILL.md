@@ -108,7 +108,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/cedar-ridge-streets-may-2026-work-orders.md` for a worked example: the City of Cedar Ridge Streets Division May 2026 monthly work order summary, with overlay program prep flagged, three pothole hot spots identified, two equipment downtime events, and a scheduling recommendation tied to the FY2026 overlay contractor mobilization.
+- See `examples/cedar-ridge-streets-may-2026-work-orders.md` for a worked example: a Streets Division May 2026 monthly work order summary, with overlay program prep flagged, three pothole hot spots identified, two equipment downtime events, and a scheduling recommendation tied to the FY2026 overlay contractor mobilization.
 
 ---
 

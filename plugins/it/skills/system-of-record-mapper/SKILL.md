@@ -138,7 +138,7 @@ Tone: factual, table-forward, no speculation.
 
 ## Examples
 
-- See `examples/permit-management-system-sor.md` for a worked example: SOR for the City of Cedar Ridge permit management system, including the data flow from intake through review through Council action and TSLAC-aligned retention. The system holds the Z-2026-04 zoning case file referenced across the planning plugin.
+- See `examples/permit-management-system-sor.md` for a worked example: SOR for a city permit management system, including the data flow from intake through review through Council action and TSLAC-aligned retention. The system holds the zoning case file referenced across the planning plugin.
 
 ---
 

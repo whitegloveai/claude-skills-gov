@@ -141,9 +141,9 @@ However, transparency about AI assistance in document drafting is sound practice
 
 **Defamation:** Do not respond to allegedly defamatory comments in-thread. Screenshot, preserve in archive, route to the City Attorney. Do not delete unless moderation policy authorizes.
 
-**ADA accessibility:** Provide alt text on every image. Use camelCase hashtags (#CedarRidgeTX) so screen readers parse correctly. Reviewed transcripts or burned-in captions on video.
+**ADA accessibility:** Provide alt text on every image. Use camelCase hashtags (e.g., #YourCityTX) so screen readers parse correctly. Reviewed transcripts or burned-in captions on video.
 
-**Bilingual posts:** For jurisdictions with significant Spanish-speaking populations (5% or greater LEP), publish parallel Spanish posts. Cedar Ridge-style cities should treat bilingual posts as default for service-critical announcements.
+**Bilingual posts:** For jurisdictions with significant Spanish-speaking populations (5% or greater LEP), publish parallel Spanish posts. Cities with very high Spanish-speaking populations should treat bilingual posts as default for service-critical announcements.
 
 **Crisis posts:** Do not use this skill alone for crisis comms. Use crisis-comms-template for holding statements and updates.
 
@@ -153,7 +153,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/street-overlay-road-closures.md` for a worked example: three platform-tailored post variations announcing road closures for the Cedar Ridge street overlay project, with recommended weekly posting cadence during construction.
+- See `examples/street-overlay-road-closures.md` for a worked example: three platform-tailored post variations announcing road closures for a street overlay project, with recommended weekly posting cadence during construction.
 
 ---
 

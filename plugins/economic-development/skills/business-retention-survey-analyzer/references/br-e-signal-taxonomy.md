@@ -36,7 +36,7 @@ A working catalog of expansion signals, retention risk indicators, supply chain 
 
 | Indicator | Underlying survey question |
 |---|---|
-| Active relocation evaluation underway | "Are you currently evaluating relocation outside Cedar Ridge?" |
+| Active relocation evaluation underway | "Are you currently evaluating relocation outside [city]?" |
 | Ownership transition without succession plan within 12 months | "What is your succession or transition plan?" |
 | Primary customer loss of 30%+ revenue | "Have you experienced significant customer concentration changes?" |
 | Lease expiration in next 12 months with no renewal commitment | "When does your current lease expire? Have you committed to renew?" |

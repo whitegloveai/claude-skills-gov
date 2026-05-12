@@ -12,7 +12,7 @@ description: Drafts copy for a municipal parks and recreation program flyer cove
 - "Draft the flyer copy for the youth summer baseball league."
 - "We're launching a senior pickleball clinic. I need a flyer."
 - "Adult yoga at the community center, eight weeks starting in September — write the flyer."
-- "Family movie night in Live Oak Park, October 14. Draft a flyer."
+- "Family movie night at the city park, October 14. Draft a flyer."
 - "We need a flyer for the after-school art program."
 - Any program-promotion piece distributed publicly that needs consistent accessibility, registration, and contact language.
 
@@ -113,7 +113,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/youth-baseball-summer-league.md` for the Cedar Ridge Parks Youth Summer Baseball League flyer (ages 6–12, $45 registration, June–July 2026).
+- See `examples/youth-baseball-summer-league.md` for a city Parks Youth Summer Baseball League flyer (ages 6–12, $45 registration, June–July 2026).
 
 ---
 

@@ -13,7 +13,7 @@ description: Drafts the operational emergency communication itself — a shelter
 - "Shelter-in-place message for the chemical spill on Highway 90."
 - "Evacuation order for the apartment fire on Cypress."
 - "All-clear and lift-notice package once water test results clear."
-- "Road closure notice for bridge inspection on Live Oak — 48 hours."
+- "Road closure notice for bridge inspection on Main Street — 48 hours."
 - A confirmed incident requires a public notice. User has verified facts and a recommended action and needs the message in CodeRED, IPAWS/WEA, social, and posted formats.
 
 This skill produces the operational notice itself. For the holding statement and message architecture around the notice, use `communications/crisis-comms-template`.
@@ -124,7 +124,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/boil-water-advisory-package.md` for a Cedar Ridge boil-water advisory package for the Pecan pressure zone, with initial notice, CodeRED short version, follow-up updates, lift notice, and TCEQ Public Notification Rule language, English and Spanish.
+- See `examples/boil-water-advisory-package.md` for a boil-water advisory package for a single pressure zone, with initial notice, CodeRED short version, follow-up updates, lift notice, and TCEQ Public Notification Rule language, English and Spanish.
 
 ---
 

@@ -23,6 +23,10 @@ Citizen-facing flyers and program materials produced through these skills includ
 
 Sponsorship and naming agreements typically require council or board approval and may trigger public bidding or transparency rules depending on jurisdiction.
 
+## Notes on Examples
+
+Examples in this plugin reference the fictional City of Cedar Ridge, TX for continuity across skills. The skill logic is jurisdiction-agnostic — adapt example specifics to your city.
+
 ## License
 
 [MIT](../../LICENSE).

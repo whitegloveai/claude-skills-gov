@@ -123,7 +123,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/cedar-ridge-agenda-review.md` for a worked example: a pre-posting review of the Cedar Ridge City Council June 9, 2026 regular meeting agenda referenced in the agenda-builder example. Result: pass with two recommended fixes (a specificity tightening on a regular business item and a citation correction in the posting block).
+- See `examples/cedar-ridge-agenda-review.md` for a worked example: a pre-posting review of the June 9, 2026 regular meeting agenda referenced in the agenda-builder example. Result: pass with two recommended fixes (a specificity tightening on a regular business item and a citation correction in the posting block).
 
 ---
 

@@ -24,6 +24,10 @@ Citizen-facing output produced by these skills includes the TRAIGA-required AI-i
 
 The crisis-comms template is a starting point. Real crisis communication requires a human in the loop, coordination with legal and public safety, and chain-of-command sign-off.
 
+## Notes on Examples
+
+Examples in this plugin reference the fictional City of Cedar Ridge, TX for continuity across skills. The skill logic is jurisdiction-agnostic — adapt example specifics to your city.
+
 ## License
 
 [MIT](../../LICENSE).

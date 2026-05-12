@@ -24,6 +24,10 @@ Claude skills for municipal finance. Built for finance directors, budget analyst
 
 These skills assume GASB-compliant accounting, Texas-specific procurement law (Local Gov. Code Ch. 252), and federal grant rules under 2 CFR Part 200 (Uniform Guidance) where applicable. Outputs are drafts for finance staff and external auditor review.
 
+## Notes on Examples
+
+Examples in this plugin reference the fictional City of Cedar Ridge, TX for continuity across skills. The skill logic is jurisdiction-agnostic — adapt example specifics to your city.
+
 ## License
 
 [MIT](../../LICENSE).

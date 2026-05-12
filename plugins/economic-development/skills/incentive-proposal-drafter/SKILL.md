@@ -9,7 +9,7 @@ description: Drafts a Chapter 380 or 381 economic development incentive agreemen
 
 ## When to Use
 
-- "Draft a Chapter 380 proposal for the Cedar Ridge Advanced Manufacturing project."
+- "Draft a Chapter 380 proposal for the Advanced Manufacturing project."
 - "Turn this deal sheet into something council can read on Tuesday."
 - "Build the performance metrics and clawback section for a $28M capex deal."
 - "The county judge wants a 381 narrative for the data center incentive."
@@ -94,7 +94,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/cedar-ridge-advanced-manufacturing-incentive.md` for an incentive proposal for a fictional advanced manufacturing facility in Cedar Ridge, TX: $28M capital, 145 jobs at $24/hour average wage, with an 8-year structured Ch. 380 grant, infrastructure cost-share, and performance-based clawback.
+- See `examples/cedar-ridge-advanced-manufacturing-incentive.md` for an incentive proposal for a fictional advanced manufacturing facility: $28M capital, 145 jobs at $24/hour average wage, with an 8-year structured Ch. 380 grant, infrastructure cost-share, and performance-based clawback.
 
 ---
 

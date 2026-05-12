@@ -9,7 +9,7 @@ description: Classifies a citizen public works service request (311-type) by cat
 
 ## When to Use
 
-- "Classify this 311 request and route it. Pothole on Pecan Street with photo, school zone."
+- "Classify this 311 request and route it. Pothole on Main Street with photo, school zone."
 - "Triage today's batch of online service requests."
 - "This caller is describing a water leak. Where does this go, and how urgent?"
 - "Build me a classification record for this dumping complaint behind the warehouse."
@@ -108,7 +108,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/recurring-pothole-classification.md` for a worked example: classification of a Cedar Ridge service request reporting a deteriorating pothole at the 700 block of Pecan Street near Pecan Elementary, marked Priority, routed to Streets, with a duplicate-check note tying this request to two prior reports in the trailing 90 days.
+- See `examples/recurring-pothole-classification.md` for a worked example: classification of a service request reporting a deteriorating pothole near an elementary school, marked Priority, routed to Streets, with a duplicate-check note tying this request to two prior reports in the trailing 90 days.
 
 ---
 

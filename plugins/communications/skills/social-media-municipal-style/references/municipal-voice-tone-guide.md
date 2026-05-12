@@ -38,9 +38,9 @@ When a vendor, partner, or nonprofit asks for an endorsement post: politely decl
 
 For contested council votes, contested public hearings, ongoing personnel matters, or active litigation: report what the council did, when, and the vote count. Do not characterize the merits.
 
-Acceptable: "Council voted 5-2 to approve the rezoning at 1100 Pecan Street. Full minutes are at cedarridgetx.gov/council."
+Acceptable: "Council voted 5-2 to approve the rezoning at 1100 Main Street. Full minutes are at [city].gov/council."
 
-Not acceptable: "Council made the responsible choice tonight on Pecan Street."
+Not acceptable: "Council made the responsible choice tonight on Main Street."
 
 If an account holder feels strongly about the matter, that account holder should not draft the post. Route it.
 

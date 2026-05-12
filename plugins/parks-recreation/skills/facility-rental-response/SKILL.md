@@ -9,7 +9,7 @@ description: Drafts a response to a citizen or organization facility rental inqu
 
 ## When to Use
 
-- "Someone wants to rent the Live Oak Park pavilion for a wedding. Draft my reply."
+- "Someone wants to rent the city park pavilion for a wedding. Draft my reply."
 - "A church is asking about renting the community center gym on Sundays."
 - "Quinceañera inquiry for the community center ballroom. Reply."
 - "Corporate team wants to rent the athletic field for a kickball tournament."
@@ -133,7 +133,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/community-pavilion-wedding-inquiry.md` for a Cedar Ridge response to a 120-guest wedding reception inquiry at Live Oak Park Pavilion.
+- See `examples/community-pavilion-wedding-inquiry.md` for a response to a 120-guest wedding reception inquiry at a city park pavilion.
 
 ---
 

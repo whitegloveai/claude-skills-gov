@@ -145,7 +145,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/winter-storm-2026-aar.md` for a Cedar Ridge AAR on the January 2026 winter storm response, with multi-agency coordination (CRPD, CRFD, Public Works, Caddo County, TDEM) and four areas for improvement (warming center activation timing, public communications cadence, mutual aid request process, post-storm debris removal).
+- See `examples/winter-storm-2026-aar.md` for an AAR on a January 2026 winter storm response, with multi-agency coordination (city PD, FD, Public Works, county, TDEM) and four areas for improvement (warming center activation timing, public communications cadence, mutual aid request process, post-storm debris removal).
 
 ---
 

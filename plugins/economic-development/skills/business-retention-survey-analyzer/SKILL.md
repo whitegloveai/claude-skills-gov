@@ -9,7 +9,7 @@ description: Analyzes BR&E (Business Retention and Expansion) survey results, id
 
 ## When to Use
 
-- "Analyze the FY2026 BR&E survey results for Cedar Ridge."
+- "Analyze the FY2026 BR&E survey results."
 - "Pull the retention risks and expansion signals out of these 60 responses."
 - "Identify which businesses need a follow-up visit in the next 30 days."
 - "Build the workforce themes section for the EDC board memo."
@@ -91,7 +91,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/cedar-ridge-br-e-fy2026-analysis.md` for an analysis of Cedar Ridge FY2026 BR&E survey covering 42 manufacturing and 18 professional services businesses, with three imminent expansion signals, two retention risk flags (one capacity-driven, one ownership-transition-driven), and three workforce themes for the EDC's regional training partnership.
+- See `examples/cedar-ridge-br-e-fy2026-analysis.md` for an analysis of a FY2026 BR&E survey covering 42 manufacturing and 18 professional services businesses, with three imminent expansion signals, two retention risk flags (one capacity-driven, one ownership-transition-driven), and three workforce themes for the EDC's regional training partnership.
 
 ---
 

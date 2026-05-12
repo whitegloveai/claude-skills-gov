@@ -158,7 +158,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/boil-water-notice-template.md` for a Cedar Ridge boil-water notice crisis comms package, including TCEQ notice requirements summary and bilingual statement structure.
+- See `examples/boil-water-notice-template.md` for a boil-water notice crisis comms package, including TCEQ notice requirements summary and bilingual statement structure.
 
 ---
 

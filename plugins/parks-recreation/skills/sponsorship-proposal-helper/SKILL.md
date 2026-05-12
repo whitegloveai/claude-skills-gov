@@ -146,7 +146,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/july-4-festival-sponsorship.md` for a Cedar Ridge July 4th festival sponsorship proposal at four tiers from $500 to $15,000.
+- See `examples/july-4-festival-sponsorship.md` for a July 4th festival sponsorship proposal at four tiers from $500 to $15,000.
 
 ---
 

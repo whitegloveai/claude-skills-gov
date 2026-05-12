@@ -122,7 +122,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/water-rate-adjustment-options.md` for a worked example: a staff memo to council presenting three options for a water rate adjustment in the City of Cedar Ridge with full fiscal impact analysis and a recommendation.
+- See `examples/water-rate-adjustment-options.md` for a worked example: a staff memo to council presenting three options for a water rate adjustment with full fiscal impact analysis and a recommendation.
 
 ---
 

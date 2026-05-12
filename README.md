@@ -24,6 +24,14 @@ Distributed as a Claude Code Plugin Marketplace. Maintained by [WhitegloveAI](ht
 | [parks-recreation](plugins/parks-recreation) | 4 | Parks & recreation |
 | [library](plugins/library) | 3 | Public library staff |
 
+## About the Examples
+
+Every skill ships with one worked example anchored in the fictional City of Cedar Ridge, TX — a deliberately neutral, jurisdiction-agnostic municipality designed to demonstrate the skill in realistic civic context without referencing any real city, county, school district, or named public servant. Cedar Ridge does not exist.
+
+The skill logic itself is universally applicable to any local government in Texas, and with minor adaptation (citation swaps, statutory references) to any U.S. jurisdiction. Cedar Ridge exists only in the examples — the skills work for your city.
+
+If you want to adapt an example to your jurisdiction, replace the fictional names, addresses, and dates with your own. The structure, statutory citations, and procedural patterns are designed to translate.
+
 ## Install
 
 In Claude Code, add this marketplace:

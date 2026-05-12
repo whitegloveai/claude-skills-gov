@@ -99,7 +99,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/budget-hearing-comments.md` for a worked example: summary of public comment at a Cedar Ridge FY26 budget hearing with 6 speakers across four topics.
+- See `examples/budget-hearing-comments.md` for a worked example: summary of public comment at a FY26 budget hearing with 6 speakers across four topics.
 
 ---
 

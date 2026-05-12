@@ -23,6 +23,10 @@ Texas economic development incentives are governed by Local Government Code Chap
 
 Site selection RFI responses often request confidential treatment. Verify confidentiality posture before sharing publicly.
 
+## Notes on Examples
+
+Examples in this plugin reference the fictional City of Cedar Ridge, TX for continuity across skills. The skill logic is jurisdiction-agnostic — adapt example specifics to your city.
+
 ## License
 
 [MIT](../../LICENSE).

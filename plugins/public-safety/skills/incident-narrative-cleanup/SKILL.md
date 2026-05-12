@@ -22,7 +22,7 @@ Required:
 
 - The author's raw narrative, in full, exactly as written.
 - Incident type (burglary, MVA, structure fire, EMS run, mental health call, etc.).
-- Agency report template or completeness checklist (Cedar Ridge PD uses initial response, observations, actions, statements, evidence, disposition).
+- Agency report template or completeness checklist (a common structure is initial response, observations, actions, statements, evidence, disposition).
 
 Optional:
 
@@ -128,7 +128,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/burglary-narrative-cleanup.md` for a Cedar Ridge PD burglary narrative authored by Officer J. Holloway, with the raw narrative, the cleaned narrative, and reviewer notes flagging two minor inconsistencies for the officer to resolve before RMS submission.
+- See `examples/burglary-narrative-cleanup.md` for a police burglary narrative, with the raw narrative, the cleaned narrative, and reviewer notes flagging two minor inconsistencies for the officer to resolve before RMS submission.
 
 ---
 

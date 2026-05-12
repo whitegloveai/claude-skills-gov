@@ -123,7 +123,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/txdot-tasa-cedar-ridge-sidewalks.md` for a worked example: a TxDOT Transportation Alternatives Set-Aside (TASA) application from the fictional City of Cedar Ridge, TX for $850,000 in safe-routes-to-school sidewalks.
+- See `examples/txdot-tasa-cedar-ridge-sidewalks.md` for a worked example: a TxDOT Transportation Alternatives Set-Aside (TASA) application from a fictional Texas city for $850,000 in safe-routes-to-school sidewalks.
 
 ---
 

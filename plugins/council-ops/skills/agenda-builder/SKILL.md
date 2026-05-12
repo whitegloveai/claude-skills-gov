@@ -20,7 +20,7 @@ description: Drafts a TOMA-compliant Texas city council meeting agenda from a li
 
 Required:
 
-- Entity name (e.g., "City of Cedar Ridge")
+- Entity name (e.g., "City of [Your City]")
 - Meeting type: regular, special, or emergency
 - Meeting date and time
 - Meeting location (physical address; note any video conferencing under § 551.127)
@@ -139,7 +139,7 @@ However, transparency about AI assistance in document drafting is sound practice
 
 ## Examples
 
-- See `examples/regular-meeting-cedar-ridge.md` for a worked example: a full regular meeting agenda for the fictional City of Cedar Ridge, TX with 9 items including a budget amendment public hearing, a zoning case, and an executive session.
+- See `examples/regular-meeting-cedar-ridge.md` for a worked example: a full regular meeting agenda for a fictional Texas city with 9 items including a budget amendment public hearing, a zoning case, and an executive session.
 
 ---
 
