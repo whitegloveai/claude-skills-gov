@@ -1,0 +1,1024 @@
+{
+  "marketplace": "whitegloveai-gov",
+  "version": "1.0.0",
+  "install_marketplace": "/plugin marketplace add whitegloveai/claude-skills-gov",
+  "repo_url": "https://github.com/whitegloveai/claude-skills-gov",
+  "plugin_count": 13,
+  "skill_count": 68,
+  "plugins": [
+    {
+      "name": "council-ops",
+      "display_name": "Council Operations",
+      "description": "Claude skills for city council operations. Built for city secretaries, council aides, executive assistants to elected officials, and city manager's office staff who run the council process.",
+      "install_command": "/plugin install council-ops@whitegloveai-gov",
+      "skill_count": 7,
+      "icon": "council",
+      "skills": [
+        {
+          "name": "agenda-builder",
+          "display_name": "Agenda Builder",
+          "description": "Drafts a TOMA-compliant Texas city council meeting agenda from a list of items. Use when a city secretary, council aide, or city manager's office needs to produce a posted agenda for a regular, special, or emergency meeting that meets Tex. Gov't Code Ch. 551 notice and content requirements.",
+          "when_to_use_summary": [
+            "Build me a draft agenda for the May 12 regular council meeting.",
+            "I have these 8 items going to council next week — put them in agenda form.",
+            "Draft a special meeting agenda. We need an executive session on the city manager's evaluation."
+          ],
+          "slash_command": "/agenda-builder",
+          "skill_md_path": "plugins/council-ops/skills/agenda-builder/SKILL.md",
+          "example_path": "plugins/council-ops/skills/agenda-builder/examples/regular-meeting-cedar-ridge.md"
+        },
+        {
+          "name": "council-packet-prep",
+          "display_name": "Council Packet Prep",
+          "description": "Assembles a city council packet from a posted agenda — drafts the cover memo, attachment index, and packet completeness checklist. Use when the city manager's office or city secretary is preparing the packet for council and needs a single artifact that ties agenda items to required attachments.",
+          "when_to_use_summary": [
+            "We have the agenda for next Tuesday — build me the packet cover memo and index.",
+            "Run a completeness check on the June 9 packet before I send it to council.",
+            "Draft the cover memo from the City Manager for this packet."
+          ],
+          "slash_command": "/council-packet-prep",
+          "skill_md_path": "plugins/council-ops/skills/council-packet-prep/SKILL.md",
+          "example_path": "plugins/council-ops/skills/council-packet-prep/examples/cedar-ridge-packet-cover.md"
+        },
+        {
+          "name": "decision-memo-writer",
+          "display_name": "Decision Memo Writer",
+          "description": "Drafts an options/recommendation memo from staff to council on a contested or significant decision. Use when a department head, assistant city manager, or city manager needs to lay out 2 to 4 options with pros, cons, fiscal impact, legal considerations, and a recommendation, in a form council can act on.",
+          "when_to_use_summary": [
+            "Draft a decision memo on the proposed water rate adjustment with three options.",
+            "I need a council memo laying out the options for the senior center site selection.",
+            "Build me a memo on the curbside compost pilot — three implementation options, fiscal impact each."
+          ],
+          "slash_command": "/decision-memo-writer",
+          "skill_md_path": "plugins/council-ops/skills/decision-memo-writer/SKILL.md",
+          "example_path": "plugins/council-ops/skills/decision-memo-writer/examples/water-rate-adjustment-options.md"
+        },
+        {
+          "name": "minutes-drafter",
+          "display_name": "Minutes Drafter",
+          "description": "Drafts clean, public-records-safe city council meeting minutes from raw recordings, livestream transcripts, or note-taker drafts. Use when a city secretary or clerk needs to convert source material into the formal minutes for council approval.",
+          "when_to_use_summary": [
+            "Here's the transcript from last night's council meeting — draft the minutes.",
+            "I have my notes plus the recording. Build me a minutes draft.",
+            "Convert this Zoom transcript into council minutes for the special meeting."
+          ],
+          "slash_command": "/minutes-drafter",
+          "skill_md_path": "plugins/council-ops/skills/minutes-drafter/SKILL.md",
+          "example_path": "plugins/council-ops/skills/minutes-drafter/examples/minutes-cedar-ridge-regular.md"
+        },
+        {
+          "name": "ordinance-tracker",
+          "display_name": "Ordinance Tracker",
+          "description": "Creates and maintains a tracking record for a proposed Texas city ordinance through introduction, public hearings, two readings, and codification. Use when a city secretary or council aide needs a single source of truth for where an ordinance stands and what's needed next.",
+          "when_to_use_summary": [
+            "Create a tracker for the new short-term rental ordinance.",
+            "Update the tracker on the tree preservation ordinance — first reading happened last night.",
+            "What's the status of every pending ordinance heading into the August agenda?"
+          ],
+          "slash_command": "/ordinance-tracker",
+          "skill_md_path": "plugins/council-ops/skills/ordinance-tracker/SKILL.md",
+          "example_path": "plugins/council-ops/skills/ordinance-tracker/examples/tree-preservation-ordinance.md"
+        },
+        {
+          "name": "public-comment-summarizer",
+          "display_name": "Public Comment Summarizer",
+          "description": "Condenses a city council public comment session into a neutral, public-records-safe summary for the meeting record. Use when a clerk or council aide needs to convert raw comment transcripts or notes into a summary suitable for inclusion in minutes or a packet.",
+          "when_to_use_summary": [
+            "Summarize last night's public comment for the minutes.",
+            "We had 14 speakers at the budget hearing — give me a clean summary by topic.",
+            "Draft a summary of public comment from the rezoning hearing for the staff report."
+          ],
+          "slash_command": "/public-comment-summarizer",
+          "skill_md_path": "plugins/council-ops/skills/public-comment-summarizer/SKILL.md",
+          "example_path": "plugins/council-ops/skills/public-comment-summarizer/examples/budget-hearing-comments.md"
+        },
+        {
+          "name": "resolution-drafter",
+          "display_name": "Resolution Drafter",
+          "description": "Drafts a city council resolution in standard whereas/now-therefore form. Use when a council member, mayor, or staff lead needs to author a resolution recognizing an event or person, taking a policy position, requesting action from another body, or authorizing a specific act that does not require an ordinance.",
+          "when_to_use_summary": [
+            "Draft a resolution honoring [person] on their retirement.",
+            "I need a resolution opposing the proposed state legislation on [topic].",
+            "Build me a resolution authorizing the City Manager to apply for the [X] grant."
+          ],
+          "slash_command": "/resolution-drafter",
+          "skill_md_path": "plugins/council-ops/skills/resolution-drafter/SKILL.md",
+          "example_path": "plugins/council-ops/skills/resolution-drafter/examples/resolution-honoring-retiring-secretary.md"
+        }
+      ]
+    },
+    {
+      "name": "clerk",
+      "display_name": "Clerk",
+      "description": "Claude skills for the city clerk's office. Built for clerks, deputy clerks, and records management staff who handle public information requests, retention scheduling, election notices, and the procedural backbone of municipal recordkeeping.",
+      "install_command": "/plugin install clerk@whitegloveai-gov",
+      "skill_count": 6,
+      "icon": "clerk",
+      "skills": [
+        {
+          "name": "election-notice-generator",
+          "display_name": "Election Notice Generator",
+          "description": "Drafts a Texas municipal election notice in English and Spanish under the Texas Election Code, including notice of election (Ch. 4), bond election language under § 1251.052 of the Government Code, and bilingual notice required for covered jurisdictions. Use when a city secretary or elections administrator needs a posting-ready notice.",
+          "when_to_use_summary": [
+            "Draft the notice of election for the May 2026 general municipal election.",
+            "We have a bond election on the November ballot. Build the notice in English and Spanish.",
+            "The charter amendment vote needs a posted notice. Draft it."
+          ],
+          "slash_command": "/election-notice-generator",
+          "skill_md_path": "plugins/clerk/skills/election-notice-generator/SKILL.md",
+          "example_path": "plugins/clerk/skills/election-notice-generator/examples/bond-election-notice.md"
+        },
+        {
+          "name": "open-meetings-compliance-checker",
+          "display_name": "Open Meetings Compliance Checker",
+          "description": "Reviews a posted Texas city council or governing body agenda against TOMA (Tex. Gov't Code Ch. 551) notice and content requirements and flags issues before posting. Use when a city secretary needs a pre-posting compliance check on agenda timing, subject specificity, executive session citations, and ancillary notices.",
+          "when_to_use_summary": [
+            "Run this agenda against TOMA before I post it tomorrow morning.",
+            "I'm not sure this executive session caption is specific enough. Check it.",
+            "The mayor added an item at the last minute. Is the timing still compliant?"
+          ],
+          "slash_command": "/open-meetings-compliance-checker",
+          "skill_md_path": "plugins/clerk/skills/open-meetings-compliance-checker/SKILL.md",
+          "example_path": "plugins/clerk/skills/open-meetings-compliance-checker/examples/cedar-ridge-agenda-review.md"
+        },
+        {
+          "name": "proclamation-writer",
+          "display_name": "Proclamation Writer",
+          "description": "Drafts a mayoral or city council proclamation in standard whereas form for recognition months, awareness days, anniversaries, retirements, or organizational milestones. Use when the city secretary's office needs a presentation-ready proclamation on the mayor's letterhead.",
+          "when_to_use_summary": [
+            "Draft a proclamation declaring April as Fair Housing Month.",
+            "The mayor wants to recognize the high school robotics team at next week's meeting. Write the proclamation.",
+            "We have a retirement proclamation request from public works."
+          ],
+          "slash_command": "/proclamation-writer",
+          "skill_md_path": "plugins/clerk/skills/proclamation-writer/SKILL.md",
+          "example_path": "plugins/clerk/skills/proclamation-writer/examples/public-works-week.md"
+        },
+        {
+          "name": "public-notice-formatter",
+          "display_name": "Public Notice Formatter",
+          "description": "Formats a Texas city public notice for newspaper publication or website posting under the controlling statute, including budget hearings, tax rate hearings, zoning hearings, and other statutorily required notices. Use when a city secretary needs a posting-ready notice with the correct statutory deadlines and content.",
+          "when_to_use_summary": [
+            "Format the tax rate hearing notice for the proposed FY2026 rate.",
+            "We need the budget hearing notice published. Build it.",
+            "Format the public hearing notice for a rezoning case."
+          ],
+          "slash_command": "/public-notice-formatter",
+          "skill_md_path": "plugins/clerk/skills/public-notice-formatter/SKILL.md",
+          "example_path": "plugins/clerk/skills/public-notice-formatter/examples/tax-rate-hearing-notice.md"
+        },
+        {
+          "name": "records-retention-classifier",
+          "display_name": "Records Retention Classifier",
+          "description": "Classifies a local government document against the Texas State Library and Archives Commission (TSLAC) Local Government Records Retention Schedules. Use when a clerk, records manager, or department staff needs to determine the schedule, item number, retention period, and disposition for a record.",
+          "when_to_use_summary": [
+            "I have a stack of public works documents. Tell me what schedule each one falls under.",
+            "How long do we have to keep this contract?",
+            "Can we destroy these utility billing records?"
+          ],
+          "slash_command": "/records-retention-classifier",
+          "skill_md_path": "plugins/clerk/skills/records-retention-classifier/SKILL.md",
+          "example_path": "plugins/clerk/skills/records-retention-classifier/examples/mixed-public-works-documents.md"
+        },
+        {
+          "name": "tpia-response-drafter",
+          "display_name": "Tpia Response Drafter",
+          "description": "Drafts a Texas Public Information Act response letter under Tex. Gov't Code Ch. 552, including the 10-business-day acknowledgment, scope-clarification offer, Attorney General referral language under § 552.301, and applicable exception citations. Use when a city secretary or records officer must respond to an open records request.",
+          "when_to_use_summary": [
+            "I got a TPIA request this morning. Draft the acknowledgment letter.",
+            "We need to refer this to the AG. Draft the requester response and the § 552.301 referral language.",
+            "The request is way too broad. Draft a letter offering scope clarification before the clock runs."
+          ],
+          "slash_command": "/tpia-response-drafter",
+          "skill_md_path": "plugins/clerk/skills/tpia-response-drafter/SKILL.md",
+          "example_path": "plugins/clerk/skills/tpia-response-drafter/examples/email-records-request-response.md"
+        }
+      ]
+    },
+    {
+      "name": "finance",
+      "display_name": "Finance",
+      "description": "Claude skills for municipal finance. Built for finance directors, budget analysts, grant managers, procurement officers, and CFOs in cities, counties, and special districts.",
+      "install_command": "/plugin install finance@whitegloveai-gov",
+      "skill_count": 7,
+      "icon": "finance",
+      "skills": [
+        {
+          "name": "audit-response-helper",
+          "display_name": "Audit Response Helper",
+          "description": "Drafts management responses to external audit findings (independent financial audit, Single Audit, or state audit) for inclusion in the audit report or follow-up letter. Use when a finance director, controller, or department head must respond to a draft finding with a concur/disagree statement, corrective action plan, timeline, and responsible person.",
+          "when_to_use_summary": [
+            "Draft the management response to this draft audit finding on travel reimbursement controls.",
+            "We have a Single Audit compliance finding on Davis-Bacon documentation — write the corrective action plan.",
+            "Convert this auditor finding into a concur-with-comment management response."
+          ],
+          "slash_command": "/audit-response-helper",
+          "skill_md_path": "plugins/finance/skills/audit-response-helper/SKILL.md",
+          "example_path": "plugins/finance/skills/audit-response-helper/examples/two-findings-fy2025.md"
+        },
+        {
+          "name": "budget-narrative-writer",
+          "display_name": "Budget Narrative Writer",
+          "description": "Drafts the narrative section of a department's annual budget submission for a Texas city. Use when a department head, budget analyst, or finance director needs to translate prior-year actuals, current-year performance, and FY+1 priorities into the written sections of a budget book that the council and the public will read.",
+          "when_to_use_summary": [
+            "Draft the FY2026 budget narrative for the Parks Department.",
+            "I have the prior-year actuals and the FY+1 ask. Write the program summary the council will read.",
+            "Help me write the performance measures section for the Police Department budget."
+          ],
+          "slash_command": "/budget-narrative-writer",
+          "skill_md_path": "plugins/finance/skills/budget-narrative-writer/SKILL.md",
+          "example_path": "plugins/finance/skills/budget-narrative-writer/examples/cedar-ridge-parks-fy2026-narrative.md"
+        },
+        {
+          "name": "financial-disclosure-formatter",
+          "display_name": "Financial Disclosure Formatter",
+          "description": "Formats required financial disclosure statements for elected officials and key non-elected employees under Tex. Loc. Gov't Code Ch. 176 and city charter or code requirements. Use when a city secretary, city manager, or filer needs to prepare an annual or transactional financial disclosure for filing with the local filing authority.",
+          "when_to_use_summary": [
+            "Format the annual financial disclosure for the City Manager.",
+            "Draft the conflict-of-interest disclosure for Council Member Garcia.",
+            "We have a vendor contract going to council — generate the Form CIS for the Mayor's relationship."
+          ],
+          "slash_command": "/financial-disclosure-formatter",
+          "skill_md_path": "plugins/finance/skills/financial-disclosure-formatter/SKILL.md",
+          "example_path": "plugins/finance/skills/financial-disclosure-formatter/examples/city-manager-annual-disclosure.md"
+        },
+        {
+          "name": "grant-application-drafter",
+          "display_name": "Grant Application Drafter",
+          "description": "Drafts a federal or state grant application narrative against a published NOFO (Notice of Funding Opportunity). Use when a grants manager, finance director, or project sponsor needs to convert a project concept and an NOFO into a compliant application narrative organized to the funder's required sections.",
+          "when_to_use_summary": [
+            "Draft the application narrative for the TxDOT TASA grant — here's the NOFO and the project description.",
+            "Write the federal CDBG application narrative for the new senior center project.",
+            "Convert this project concept into a competitive application against the EPA Brownfields NOFO."
+          ],
+          "slash_command": "/grant-application-drafter",
+          "skill_md_path": "plugins/finance/skills/grant-application-drafter/SKILL.md",
+          "example_path": "plugins/finance/skills/grant-application-drafter/examples/txdot-tasa-cedar-ridge-sidewalks.md"
+        },
+        {
+          "name": "procurement-rfp-builder",
+          "display_name": "Procurement Rfp Builder",
+          "description": "Drafts a Request for Proposals scope, evaluation criteria, and submission requirements for a Texas city procurement under Tex. Loc. Gov't Code Ch. 252. Use when a purchasing manager, finance director, or department head needs to issue an RFP for goods or services that exceeds the competitive procurement threshold.",
+          "when_to_use_summary": [
+            "Build the RFP for the FY2026 street overlay program — approximately $1.8M, twelve lane-miles.",
+            "Draft an RFP for janitorial services for City Hall and three satellite buildings.",
+            "Write the scope and evaluation criteria for the citizen survey vendor selection."
+          ],
+          "slash_command": "/procurement-rfp-builder",
+          "skill_md_path": "plugins/finance/skills/procurement-rfp-builder/SKILL.md",
+          "example_path": "plugins/finance/skills/procurement-rfp-builder/examples/cedar-ridge-street-overlay-rfp.md"
+        },
+        {
+          "name": "transparency-report-generator",
+          "display_name": "Transparency Report Generator",
+          "description": "Drafts a Texas Comptroller Transparency Stars-style disclosure summary for a city's website. Use when a finance director, public information officer, or web team is publishing or updating a transparency page that consolidates the city's financial, contract, debt, and pension disclosures into a citizen-readable narrative.",
+          "when_to_use_summary": [
+            "Draft the FY2025 transparency summary for the city website.",
+            "Update the Traditional Finances section after the audit is final.",
+            "Write the citizen-facing narrative for our Transparency Stars submission."
+          ],
+          "slash_command": "/transparency-report-generator",
+          "skill_md_path": "plugins/finance/skills/transparency-report-generator/SKILL.md",
+          "example_path": "plugins/finance/skills/transparency-report-generator/examples/cedar-ridge-fy2025-transparency-summary.md"
+        },
+        {
+          "name": "variance-analyzer",
+          "display_name": "Variance Analyzer",
+          "description": "Drafts a budget-to-actual variance memo for a monthly or quarterly financial report. Use when a finance director, budget analyst, or department head needs to explain material variances by line item or category, project year-end, and recommend corrective action for the council's monthly or quarterly financial review.",
+          "when_to_use_summary": [
+            "Draft the Q3 variance analysis for the General Fund.",
+            "Write the variance memo for the monthly financial report — flag anything over 10 percent.",
+            "Explain the police overtime overage and the capital outlay underrun in the FY2026 mid-year report."
+          ],
+          "slash_command": "/variance-analyzer",
+          "skill_md_path": "plugins/finance/skills/variance-analyzer/SKILL.md",
+          "example_path": "plugins/finance/skills/variance-analyzer/examples/q3-fy2026-general-fund-variance.md"
+        }
+      ]
+    },
+    {
+      "name": "communications",
+      "display_name": "Communications",
+      "description": "Claude skills for the public information office. Built for PIOs, communications directors, social media coordinators, and the staff who run the city's public voice.",
+      "install_command": "/plugin install communications@whitegloveai-gov",
+      "skill_count": 5,
+      "icon": "communications",
+      "skills": [
+        {
+          "name": "citizen-newsletter-builder",
+          "display_name": "Citizen Newsletter Builder",
+          "description": "Drafts a monthly or quarterly citizen newsletter with cover note, council-decision recap, upcoming events calendar, departmental highlights, and contact sidebar. Use when a PIO, city manager's office, or communications coordinator needs to assemble the recurring city newsletter for distribution by mail, email, or web post.",
+          "when_to_use_summary": [
+            "Draft the July citizen newsletter. Council just adopted the budget.",
+            "Build the Q3 newsletter for the utility-bill mail insert.",
+            "I have department updates. Pull them into a newsletter."
+          ],
+          "slash_command": "/citizen-newsletter-builder",
+          "skill_md_path": "plugins/communications/skills/citizen-newsletter-builder/SKILL.md",
+          "example_path": "plugins/communications/skills/citizen-newsletter-builder/examples/cedar-ridge-july-2026-newsletter.md"
+        },
+        {
+          "name": "crisis-comms-template",
+          "display_name": "Crisis Comms Template",
+          "description": "Drafts initial holding statements and follow-up update templates for a public crisis (boil-water, severe weather, public safety incident, infrastructure failure, cybersecurity incident), with internal coordination notes and an all-clear template. Use when a PIO, city manager's office, or emergency management coordinator needs rapid, accurate crisis messaging that aligns with incident command.",
+          "when_to_use_summary": [
+            "We just got a boil-water notice. Draft the holding statement now.",
+            "Major water main break flooding three blocks. PD has the area closed.",
+            "Cyber incident — ransomware on utility billing. Need a holding statement."
+          ],
+          "slash_command": "/crisis-comms-template",
+          "skill_md_path": "plugins/communications/skills/crisis-comms-template/SKILL.md",
+          "example_path": "plugins/communications/skills/crisis-comms-template/examples/boil-water-notice-template.md"
+        },
+        {
+          "name": "press-release-drafter",
+          "display_name": "Press Release Drafter",
+          "description": "Drafts a municipal press release in standard inverted-pyramid AP Style with dateline, lead, supporting paragraphs, attributed quote, boilerplate, and media contact block. Use when a PIO, city manager's office, or department head needs a release for an announcement, event, project milestone, award, or routine public notice that will be distributed to media and posted to the city website.",
+          "when_to_use_summary": [
+            "Draft a press release for the groundbreaking on Fire Station #3.",
+            "We just got a $1.2M TxDOT grant. I need a release by end of day.",
+            "Mayor wants a release announcing the new community garden ribbon-cutting."
+          ],
+          "slash_command": "/press-release-drafter",
+          "skill_md_path": "plugins/communications/skills/press-release-drafter/SKILL.md",
+          "example_path": "plugins/communications/skills/press-release-drafter/examples/fire-station-3-groundbreaking.md"
+        },
+        {
+          "name": "social-media-municipal-style",
+          "display_name": "Social Media Municipal Style",
+          "description": "Drafts platform-tailored social media posts in a neutral, public-records-safe municipal voice with what-not-to-post guardrails. Use when a PIO, communications coordinator, or department social media account owner needs posts for a city announcement, event, or service notice across Facebook, X/Twitter, Instagram, LinkedIn, or Nextdoor.",
+          "when_to_use_summary": [
+            "Draft Facebook and Twitter posts about the road closures starting next week.",
+            "Need an Instagram post for the library's summer reading kickoff.",
+            "Nextdoor post about the boil-water notice — I need it conservative."
+          ],
+          "slash_command": "/social-media-municipal-style",
+          "skill_md_path": "plugins/communications/skills/social-media-municipal-style/SKILL.md",
+          "example_path": "plugins/communications/skills/social-media-municipal-style/examples/street-overlay-road-closures.md"
+        },
+        {
+          "name": "talking-points-writer",
+          "display_name": "Talking Points Writer",
+          "description": "Drafts talking points for council members, mayors, or department heads on a contested or high-stakes topic, including 30-second summary, main message points, anticipated Q&A, pivot phrases, and bridges. Use when a PIO, chief of staff, or city manager needs to prepare an elected official or department head for a council meeting, media interview, town hall, or regional body appearance.",
+          "when_to_use_summary": [
+            "Mayor has a KCRG interview tomorrow on the water rate increase.",
+            "Council members need talking points before Tuesday's rezoning vote.",
+            "City Manager is testifying at the regional transit board next week."
+          ],
+          "slash_command": "/talking-points-writer",
+          "skill_md_path": "plugins/communications/skills/talking-points-writer/SKILL.md",
+          "example_path": "plugins/communications/skills/talking-points-writer/examples/water-rate-adjustment-talking-points.md"
+        }
+      ]
+    },
+    {
+      "name": "hr",
+      "display_name": "Human Resources",
+      "description": "Claude skills for local government HR. Built for HR directors, generalists, benefits coordinators, and risk managers handling personnel matters in the public sector.",
+      "install_command": "/plugin install hr@whitegloveai-gov",
+      "skill_count": 6,
+      "icon": "hr",
+      "skills": [
+        {
+          "name": "ada-accommodation-drafter",
+          "display_name": "Ada Accommodation Drafter",
+          "description": "Drafts ADA reasonable accommodation interactive-process correspondence and analysis memos, including initiation letters, accommodation analysis memos, and accommodation agreements. Use when HR or the city attorney is engaging with an employee on a disability accommodation request in a Texas city, county, or special district.",
+          "when_to_use_summary": [
+            "Draft the initiation letter for the interactive process. Employee disclosed a back injury yesterday.",
+            "I have the medical limitations and the essential functions. Walk me through the accommodation analysis memo.",
+            "We've agreed on the accommodation. Draft the agreement for signature."
+          ],
+          "slash_command": "/ada-accommodation-drafter",
+          "skill_md_path": "plugins/hr/skills/ada-accommodation-drafter/SKILL.md",
+          "example_path": "plugins/hr/skills/ada-accommodation-drafter/examples/building-inspector-accommodation-memo.md"
+        },
+        {
+          "name": "employee-handbook-updater",
+          "display_name": "Employee Handbook Updater",
+          "description": "Drafts a redlined update to an employee handbook section based on a triggering statute, regulation, court decision, or policy action, with a plain-language employee summary and supervisor talking points. Use when HR or the city attorney needs to revise a handbook section under deadline.",
+          "when_to_use_summary": [
+            "DOL issued a new salary threshold rule. Update our FLSA classification language.",
+            "Council adopted a paid parental leave benefit last night. Update the leave section.",
+            "The Fifth Circuit decision on bathroom policies came down. Walk our handbook through it."
+          ],
+          "slash_command": "/employee-handbook-updater",
+          "skill_md_path": "plugins/hr/skills/employee-handbook-updater/SKILL.md",
+          "example_path": "plugins/hr/skills/employee-handbook-updater/examples/handbook-update-flsa-salary-threshold.md"
+        },
+        {
+          "name": "job-description-writer",
+          "display_name": "Job Description Writer",
+          "description": "Drafts a public-sector job description with essential functions, FLSA classification rationale, ADA-compliant physical demands, and EEO statement. Use when an HR generalist, hiring manager, or department head is creating or refreshing a job description for a city, county, or special district position.",
+          "when_to_use_summary": [
+            "Draft a job description for a Senior Accountant in our Finance Department.",
+            "I need a JD for a new Building Inspector II position before we post it.",
+            "Refresh the Public Works Foreman job description. The duties have changed since 2018."
+          ],
+          "slash_command": "/job-description-writer",
+          "skill_md_path": "plugins/hr/skills/job-description-writer/SKILL.md",
+          "example_path": "plugins/hr/skills/job-description-writer/examples/senior-accountant-cedar-ridge.md"
+        },
+        {
+          "name": "onboarding-packet-builder",
+          "display_name": "Onboarding Packet Builder",
+          "description": "Assembles a new-hire onboarding packet checklist tailored to position type with required forms, training assignments, retirement system enrollment, and 30/60/90 milestones. Use when HR or a hiring manager is preparing for a new employee's first day in a Texas city, county, or special district.",
+          "when_to_use_summary": [
+            "Build an onboarding packet for a Senior Accountant starting June 2.",
+            "We're hiring a police officer. Generate the packet with TCOLE verification and the oath.",
+            "Draft a 30/60/90 schedule for a new Code Enforcement Officer."
+          ],
+          "slash_command": "/onboarding-packet-builder",
+          "skill_md_path": "plugins/hr/skills/onboarding-packet-builder/SKILL.md",
+          "example_path": "plugins/hr/skills/onboarding-packet-builder/examples/police-officer-onboarding.md"
+        },
+        {
+          "name": "performance-eval-helper",
+          "display_name": "Performance Eval Helper",
+          "description": "Drafts a public-sector performance evaluation narrative from raw supervisor notes, goal status, and competency observations, with strengths, development areas, and goals for the next period. Use when a supervisor or HR generalist is preparing an annual or probationary evaluation in a Texas city, county, or special district.",
+          "when_to_use_summary": [
+            "Help me draft the annual eval for our Streets Supervisor. Here are my notes.",
+            "Turn these performance notes into competency narratives.",
+            "I have goal status for the year. Draft the goal achievement section."
+          ],
+          "slash_command": "/performance-eval-helper",
+          "skill_md_path": "plugins/hr/skills/performance-eval-helper/SKILL.md",
+          "example_path": "plugins/hr/skills/performance-eval-helper/examples/streets-supervisor-annual-eval.md"
+        },
+        {
+          "name": "policy-analyzer",
+          "display_name": "Policy Analyzer",
+          "description": "Reviews an HR policy or proposed policy against current federal and Texas employment law and produces a legal-compliance memo identifying risk, recommended edits, and questions for counsel. Use when HR or the city attorney's office is updating a personnel policy, evaluating a draft, or responding to an audit finding.",
+          "when_to_use_summary": [
+            "Review our remote work policy for FLSA and ADA risk.",
+            "Here's a draft drug and alcohol policy. What's missing?",
+            "Audit our PTO policy against Texas law and FMLA."
+          ],
+          "slash_command": "/policy-analyzer",
+          "skill_md_path": "plugins/hr/skills/policy-analyzer/SKILL.md",
+          "example_path": "plugins/hr/skills/policy-analyzer/examples/remote-work-policy-review.md"
+        }
+      ]
+    },
+    {
+      "name": "planning",
+      "display_name": "Planning & Development",
+      "description": "Claude skills for planning and development services. Built for planners, planning directors, P&Z board liaisons, and development services staff handling zoning, permits, and land-use review.",
+      "install_command": "/plugin install planning@whitegloveai-gov",
+      "skill_count": 6,
+      "icon": "planning",
+      "skills": [
+        {
+          "name": "permit-application-reviewer",
+          "display_name": "Permit Application Reviewer",
+          "description": "Reviews a submitted permit application for completeness and code compliance, then returns a clear next-step decision (approve, approve with conditions, deny, or incomplete). Use when a building inspector, planner, or development services reviewer needs a written review memo for a permit submittal that will go into the case file under the Tex. Loc. Gov't Code Ch. 245 vested rights framework.",
+          "when_to_use_summary": [
+            "Review this building permit submittal for the residential addition at 411 Magnolia.",
+            "Check the sign permit submittal against the sign code and tell me what's missing.",
+            "I have a special event permit submittal for the fall festival — run the review."
+          ],
+          "slash_command": "/permit-application-reviewer",
+          "skill_md_path": "plugins/planning/skills/permit-application-reviewer/SKILL.md",
+          "example_path": "plugins/planning/skills/permit-application-reviewer/examples/residential-addition-permit-review.md"
+        },
+        {
+          "name": "public-hearing-notice",
+          "display_name": "Public Hearing Notice",
+          "description": "Drafts the three-part public hearing notice package (newspaper publication, mailed notice to nearby property owners, and posted-sign content) for a planning matter under Tex. Loc. Gov't Code Ch. 211 or Ch. 212. Use when a planner or city secretary is preparing the statutory notice for a rezoning, special-use permit, variance, plat, or similar land-use hearing.",
+          "when_to_use_summary": [
+            "Draft the public hearing notices for a Main Street rezoning case.",
+            "I need the three-part notice package for a variance hearing on a corner lot.",
+            "Set up the plat hearing notices for a subdivision replat."
+          ],
+          "slash_command": "/public-hearing-notice",
+          "skill_md_path": "plugins/planning/skills/public-hearing-notice/SKILL.md",
+          "example_path": "plugins/planning/skills/public-hearing-notice/examples/z-2026-04-public-hearing-notices.md"
+        },
+        {
+          "name": "site-plan-summary",
+          "display_name": "Site Plan Summary",
+          "description": "Summarizes a submitted site plan against the city's dimensional standards, parking and landscape requirements, drainage and access standards, and any conditions of underlying zoning approval. Use when a planner or development review committee staff member needs a written site plan review memo for staff sign-off, P&Z review, or a development review committee meeting.",
+          "when_to_use_summary": [
+            "Summarize the site plan for the mixed-use project on Main Street.",
+            "Run a site plan review on the proposed convenience store at 1500 FM 1200.",
+            "I need a development review committee memo for the apartment site plan at Cedar Crossing."
+          ],
+          "slash_command": "/site-plan-summary",
+          "skill_md_path": "plugins/planning/skills/site-plan-summary/SKILL.md",
+          "example_path": "plugins/planning/skills/site-plan-summary/examples/cedar-ridge-mixed-use-site-plan.md"
+        },
+        {
+          "name": "staff-report-writer",
+          "display_name": "Staff Report Writer",
+          "description": "Drafts the planning staff report for P&Z or City Council with case background, applicable regulations, surrounding context, staff analysis, findings, and a recommendation. Use when a planner is assembling the staff report that will go in the P&Z or council packet for a zoning, plat, variance, or special-use case under Tex. Loc. Gov't Code Ch. 211 or Ch. 212.",
+          "when_to_use_summary": [
+            "Draft the staff report for the rezoning case going to P&Z next Tuesday.",
+            "I need the staff report for the plat approval.",
+            "Write up the variance staff report for the ZBA on June 18."
+          ],
+          "slash_command": "/staff-report-writer",
+          "skill_md_path": "plugins/planning/skills/staff-report-writer/SKILL.md",
+          "example_path": "plugins/planning/skills/staff-report-writer/examples/z-2026-04-staff-report.md"
+        },
+        {
+          "name": "variance-request-analyzer",
+          "display_name": "Variance Request Analyzer",
+          "description": "Analyzes a variance request against the statutory unique-hardship criteria in Tex. Loc. Gov't Code § 211.009 and produces a written staff memo with findings on each criterion and a staff recommendation. Use when a planner or development services reviewer is preparing the staff memo for a Zoning Board of Adjustment variance hearing.",
+          "when_to_use_summary": [
+            "Analyze the setback variance request at 503 Hickory and write the staff memo.",
+            "Run a variance analysis on this side-yard reduction request for the ZBA.",
+            "I need findings on each statutory criterion for a height variance hearing next month."
+          ],
+          "slash_command": "/variance-request-analyzer",
+          "skill_md_path": "plugins/planning/skills/variance-request-analyzer/SKILL.md",
+          "example_path": "plugins/planning/skills/variance-request-analyzer/examples/setback-variance-corner-lot.md"
+        },
+        {
+          "name": "zoning-narrative-writer",
+          "display_name": "Zoning Narrative Writer",
+          "description": "Drafts the staff narrative justification for a zoning change, special-use permit, or planned development application under Tex. Loc. Gov't Code Ch. 211. Use when a planner, planning director, or development services staff member needs a written narrative that ties the request to the comprehensive plan, surrounding land uses, infrastructure capacity, and the criteria in the city's zoning ordinance.",
+          "when_to_use_summary": [
+            "Draft the narrative for the 1100 Main Street rezoning case.",
+            "Write up the comp plan conformance section for the special-use permit at 215 Elm.",
+            "I need the surrounding land use and compatibility analysis for this rezoning case."
+          ],
+          "slash_command": "/zoning-narrative-writer",
+          "skill_md_path": "plugins/planning/skills/zoning-narrative-writer/SKILL.md",
+          "example_path": "plugins/planning/skills/zoning-narrative-writer/examples/z-2026-04-pecan-street-narrative.md"
+        }
+      ]
+    },
+    {
+      "name": "it",
+      "display_name": "Information Technology",
+      "description": "Claude skills for local government IT. Built for CIOs, IT directors, security officers, AI governance leads, and the small-shop IT generalist running everything in a 10,000-resident city.",
+      "install_command": "/plugin install it@whitegloveai-gov",
+      "skill_count": 5,
+      "icon": "it",
+      "skills": [
+        {
+          "name": "ai-governance-checklist",
+          "display_name": "Ai Governance Checklist",
+          "description": "Drafts an AI use-case intake form aligned with NIST AI RMF 1.0, the NIST Generative AI Profile, TRAIGA, and the GovAI Coalition's use case template. Use when a CIO, AI governance lead, or department director needs to intake a proposed AI use case for risk classification, control mapping, and approval routing before deployment.",
+          "when_to_use_summary": [
+            "Planning wants AI to draft staff reports. Intake the use case.",
+            "HR is piloting AI résumé screening. Run it through governance.",
+            "Council asked for an inventory of every AI use case in the city."
+          ],
+          "slash_command": "/ai-governance-checklist",
+          "skill_md_path": "plugins/it/skills/ai-governance-checklist/SKILL.md",
+          "example_path": "plugins/it/skills/ai-governance-checklist/examples/genai-agenda-drafting-intake.md"
+        },
+        {
+          "name": "it-policy-drafter",
+          "display_name": "It Policy Drafter",
+          "description": "Drafts a municipal IT or acceptable-use policy aligned with NIST CSF 2.0, NIST SP 800-53 Rev. 5, and Texas DIR requirements. Use when a CIO, IT director, or HR partner needs to produce a governing-body-ready policy on topics such as acceptable use, password and authentication, BYOD, remote access, generative AI use, data classification, or incident response.",
+          "when_to_use_summary": [
+            "Draft an acceptable use policy for staff and contractors.",
+            "We need a generative AI use policy before TRAIGA takes effect.",
+            "Council wants a BYOD policy. Align it with NIST 800-53."
+          ],
+          "slash_command": "/it-policy-drafter",
+          "skill_md_path": "plugins/it/skills/it-policy-drafter/SKILL.md",
+          "example_path": "plugins/it/skills/it-policy-drafter/examples/ai-use-acceptable-use-policy.md"
+        },
+        {
+          "name": "security-incident-classifier",
+          "display_name": "Security Incident Classifier",
+          "description": "Classifies a cybersecurity event by severity, category, and external notification trigger, and produces an initial response action list. Use when an IT director, SOC analyst, or city manager needs a fast, defensible classification of a confirmed or suspected incident to drive the right notification, containment, and forensic-preservation steps.",
+          "when_to_use_summary": [
+            "Utility billing looks encrypted. Classify this and tell me who I have to call.",
+            "Phishing led to MFA-bypass login on a finance account. Severity?",
+            "A vendor told us they had a breach that may include our data."
+          ],
+          "slash_command": "/security-incident-classifier",
+          "skill_md_path": "plugins/it/skills/security-incident-classifier/SKILL.md",
+          "example_path": "plugins/it/skills/security-incident-classifier/examples/utility-billing-ransomware.md"
+        },
+        {
+          "name": "system-of-record-mapper",
+          "display_name": "System of Record Mapper",
+          "description": "Documents a municipal system of record (SOR) including authority, data classification, integrations, retention, access controls, and disaster recovery posture. Use when a CIO, records officer, or department director needs a standardized SOR record for the city's data inventory, audit responses, vendor risk reviews, or public records intake.",
+          "when_to_use_summary": [
+            "Document the permit management system as an SOR for the data inventory.",
+            "Auditor wants a system map for the financial general ledger.",
+            "Records officer is building the city's data inventory. Map every SOR."
+          ],
+          "slash_command": "/system-of-record-mapper",
+          "skill_md_path": "plugins/it/skills/system-of-record-mapper/SKILL.md",
+          "example_path": "plugins/it/skills/system-of-record-mapper/examples/permit-management-system-sor.md"
+        },
+        {
+          "name": "vendor-risk-questionnaire",
+          "display_name": "Vendor Risk Questionnaire",
+          "description": "Drafts or fills a vendor risk questionnaire for IT, cloud, or SaaS procurement, modeled on the CSA CAIQ but adapted for Texas municipal scope. Use when an IT director, procurement officer, or city attorney needs a structured questionnaire response (or a blank template) to assess a vendor's security and compliance posture for new procurement or contract renewal.",
+          "when_to_use_summary": [
+            "Draft a vendor risk questionnaire for the new permit-tracking SaaS.",
+            "Fill in this CAIQ for the vendor and flag what's missing.",
+            "Renewing the police RMS contract — build the questionnaire for CJIS scope."
+          ],
+          "slash_command": "/vendor-risk-questionnaire",
+          "skill_md_path": "plugins/it/skills/vendor-risk-questionnaire/SKILL.md",
+          "example_path": "plugins/it/skills/vendor-risk-questionnaire/examples/saas-permit-tracking-vendor.md"
+        }
+      ]
+    },
+    {
+      "name": "legal",
+      "display_name": "Legal",
+      "description": "Claude skills for the city attorney's office. Built for city attorneys, assistant city attorneys, and contract compliance staff. Output here is paralegal-grade drafting; an attorney reviews everything before it leaves the office.",
+      "install_command": "/plugin install legal@whitegloveai-gov",
+      "skill_count": 5,
+      "icon": "legal",
+      "skills": [
+        {
+          "name": "contract-redline-summary",
+          "display_name": "Contract Redline Summary",
+          "description": "Summarizes a vendor's redlines on a city contract draft with categorized risk flags, negotiation recommendations, and routing notes for the city attorney's review. Use when a contract negotiator, assistant city attorney, or department contract liaison receives a vendor's revised contract and needs a structured pre-review memo before the city attorney reads the redline in full.",
+          "when_to_use_summary": [
+            "Vendor returned redlines on our SaaS agreement. Summarize what changed and flag the risk.",
+            "Draft a redline memo for the city attorney on the construction contract changes.",
+            "Compare the vendor's revisions to our original. Categorize each change and recommend a response."
+          ],
+          "slash_command": "/contract-redline-summary",
+          "skill_md_path": "plugins/legal/skills/contract-redline-summary/SKILL.md",
+          "example_path": "plugins/legal/skills/contract-redline-summary/examples/saas-permit-tracking-redline-summary.md"
+        },
+        {
+          "name": "interlocal-agreement-drafter",
+          "display_name": "Interlocal Agreement Drafter",
+          "description": "Drafts an interlocal cooperation agreement between a Texas city and another political subdivision under Tex. Gov't Code Ch. 791 for shared governmental services. Use when a city attorney, contract administrator, or department director needs a structured first draft for council approval — animal control, dispatch, library, mutual aid, jail services, or joint facilities.",
+          "when_to_use_summary": [
+            "Draft the interlocal for animal control services with the county for FY2026.",
+            "We need a Ch. 791 agreement for dispatch services with the neighboring city.",
+            "Convert this scope of work into an interlocal cooperation agreement."
+          ],
+          "slash_command": "/interlocal-agreement-drafter",
+          "skill_md_path": "plugins/legal/skills/interlocal-agreement-drafter/SKILL.md",
+          "example_path": "plugins/legal/skills/interlocal-agreement-drafter/examples/cedar-ridge-caddo-county-animal-control-ila.md"
+        },
+        {
+          "name": "litigation-summary-helper",
+          "display_name": "Litigation Summary Helper",
+          "description": "Drafts a privileged work-product litigation summary for council executive session under Tex. Gov't Code § 551.071, covering case posture, exposure, strategy options, and a recommendation. Use when the city attorney must brief the governing body in closed session on a pending or anticipated lawsuit and needs a structured, privilege-marked memo before the meeting.",
+          "when_to_use_summary": [
+            "Draft the executive session memo on the slip-and-fall case for the May 26 council meeting.",
+            "Council needs a brief on the discovery posture of the wage-and-hour matter.",
+            "Summarize the settlement offer in *Smith v. City* for council action."
+          ],
+          "slash_command": "/litigation-summary-helper",
+          "skill_md_path": "plugins/legal/skills/litigation-summary-helper/SKILL.md",
+          "example_path": "plugins/legal/skills/litigation-summary-helper/examples/smith-v-cedar-ridge-litigation-summary.md"
+        },
+        {
+          "name": "ordinance-impact-analyzer",
+          "display_name": "Ordinance Impact Analyzer",
+          "description": "Analyzes a proposed Texas city ordinance for conflicts with the city charter, existing code, state preemption, federal preemption, and constitutional limits, and identifies enforceability and authority issues before introduction. Use when the city attorney's office, a sponsoring council member's staff, or the city manager's office needs a pre-introduction legal screen on a proposed ordinance.",
+          "when_to_use_summary": [
+            "Council Member Reyes wants to file a short-term rental ordinance. Run the legal screen.",
+            "Analyze the draft sign code for preemption and First Amendment issues.",
+            "We have a proposed pet limits ordinance. Check it against the charter and code."
+          ],
+          "slash_command": "/ordinance-impact-analyzer",
+          "skill_md_path": "plugins/legal/skills/ordinance-impact-analyzer/SKILL.md",
+          "example_path": "plugins/legal/skills/ordinance-impact-analyzer/examples/short-term-rental-ordinance-analysis.md"
+        },
+        {
+          "name": "tpia-legal-review",
+          "display_name": "Tpia Legal Review",
+          "description": "Reviews a clerk-drafted Texas Public Information Act response under Tex. Gov't Code Ch. 552 for legal sufficiency, required Attorney General referral, exception assertions, redaction adequacy, and business-day clock compliance before the response leaves the city. Use when the city attorney's office must sign off on a TPIA response prepared by the city secretary or records officer.",
+          "when_to_use_summary": [
+            "The clerk drafted a TPIA response. Run the legal review before it goes out.",
+            "We're about to file an AG referral. Confirm the exception assertions and the brief.",
+            "Review the redactions on this email production for legal sufficiency."
+          ],
+          "slash_command": "/tpia-legal-review",
+          "skill_md_path": "plugins/legal/skills/tpia-legal-review/SKILL.md",
+          "example_path": "plugins/legal/skills/tpia-legal-review/examples/council-emails-review.md"
+        }
+      ]
+    },
+    {
+      "name": "public-safety",
+      "display_name": "Public Safety",
+      "description": "Claude skills for police, fire, EMS, and emergency management. Built for command staff, training officers, PIOs in uniformed services, and emergency management coordinators.",
+      "install_command": "/plugin install public-safety@whitegloveai-gov",
+      "skill_count": 5,
+      "icon": "public-safety",
+      "skills": [
+        {
+          "name": "after-action-report-builder",
+          "display_name": "After Action Report Builder",
+          "description": "Drafts an after-action report (AAR) for a real-world emergency response or planned exercise using the FEMA HSEEP structure and NIMS/ICS terminology, organized by core capability with strengths, areas for improvement, and assigned recommendations. Use when an emergency management coordinator, incident commander, or training officer needs to produce a formal AAR for the city manager, governing body, TDEM, or a grant report.",
+          "when_to_use_summary": [
+            "We need an AAR on the winter storm response. Due to council in three weeks.",
+            "Draft the AAR for the EOC tabletop. Send to TDEM with our grant report.",
+            "The HazMat call had four agencies on scene. We need an AAR that captures all four."
+          ],
+          "slash_command": "/after-action-report-builder",
+          "skill_md_path": "plugins/public-safety/skills/after-action-report-builder/SKILL.md",
+          "example_path": "plugins/public-safety/skills/after-action-report-builder/examples/winter-storm-2026-aar.md"
+        },
+        {
+          "name": "community-engagement-message",
+          "display_name": "Community Engagement Message",
+          "description": "Drafts a community-facing message from a public safety agency on a non-crisis but operationally significant topic — a new policy, an enforcement focus, a safety reminder, or a recognition. Output is plain-language, public-records-cognizant, and First Amendment-aware. Use when a chief, PIO, or command-staff officer needs to communicate proactively with residents in a tone that builds trust without sensationalizing.",
+          "when_to_use_summary": [
+            "Draft a message announcing our school-zone enforcement focus next month.",
+            "Write the announcement for the new co-responder mental health program.",
+            "We need a community message on the increased pedestrian fatalities in District 3."
+          ],
+          "slash_command": "/community-engagement-message",
+          "skill_md_path": "plugins/public-safety/skills/community-engagement-message/SKILL.md",
+          "example_path": "plugins/public-safety/skills/community-engagement-message/examples/traffic-enforcement-focus-month.md"
+        },
+        {
+          "name": "emergency-comms-drafter",
+          "display_name": "Emergency Comms Drafter",
+          "description": "Drafts the operational emergency communication itself — a shelter-in-place order, evacuation order, all-clear, road-closure, or boil-water advisory — in the required statutory or operational format, in English and Spanish, for CodeRED, IPAWS/WEA, social, and posted notice. Use when an OEM coordinator, PIO, water system operator, or chief is releasing an operational notice to the public on a confirmed incident.",
+          "when_to_use_summary": [
+            "Draft the boil-water notice for the Pecan pressure zone — TCEQ-compliant, English and Spanish.",
+            "Shelter-in-place message for the chemical spill on Highway 90.",
+            "Evacuation order for the apartment fire on Cypress."
+          ],
+          "slash_command": "/emergency-comms-drafter",
+          "skill_md_path": "plugins/public-safety/skills/emergency-comms-drafter/SKILL.md",
+          "example_path": "plugins/public-safety/skills/emergency-comms-drafter/examples/boil-water-advisory-package.md"
+        },
+        {
+          "name": "incident-narrative-cleanup",
+          "display_name": "Incident Narrative Cleanup",
+          "description": "Restructures and copy-edits an officer, EMT, or firefighter incident narrative into a clean chronological report without altering facts. Use when a peace officer, paramedic, or fire officer needs help producing a grammatically sound, well-organized narrative for a Texas agency report, with a reviewer-notes section that flags internal contradictions, missing checklist items, and weak phrasing the author can address before submission.",
+          "when_to_use_summary": [
+            "Run my narrative through the cleanup. Don't change what I said.",
+            "I wrote this at 0300, please tighten it up before I submit.",
+            "Flag anything that looks inconsistent so I can fix it myself."
+          ],
+          "slash_command": "/incident-narrative-cleanup",
+          "skill_md_path": "plugins/public-safety/skills/incident-narrative-cleanup/SKILL.md",
+          "example_path": "plugins/public-safety/skills/incident-narrative-cleanup/examples/burglary-narrative-cleanup.md"
+        },
+        {
+          "name": "training-bulletin-drafter",
+          "display_name": "Training Bulletin Drafter",
+          "description": "Drafts a roll-call training bulletin or training memorandum for police, fire, or EMS in the standard Texas agency format, with TCOLE/TCFP/DSHS-compatible learning objectives, controlling-authority citations, and a sign-off acknowledgment block. Use when a training officer, sergeant, captain, or chief needs to issue training in response to a court ruling, legislative change, agency policy update, or operational lesson learned.",
+          "when_to_use_summary": [
+            "We need a training bulletin on the new vehicle search ruling by Friday roll call.",
+            "Draft a memorandum on the revised use-of-force policy. Sworn distribution.",
+            "The state changed the Tier II reporting threshold. Write me a bulletin for the captains."
+          ],
+          "slash_command": "/training-bulletin-drafter",
+          "skill_md_path": "plugins/public-safety/skills/training-bulletin-drafter/SKILL.md",
+          "example_path": "plugins/public-safety/skills/training-bulletin-drafter/examples/4th-amendment-vehicle-search-bulletin.md"
+        }
+      ]
+    },
+    {
+      "name": "public-works",
+      "display_name": "Public Works",
+      "description": "Claude skills for public works. Built for public works directors, engineers, fleet and facility managers, water utility staff, and capital improvement program leads.",
+      "install_command": "/plugin install public-works@whitegloveai-gov",
+      "skill_count": 5,
+      "icon": "public-works",
+      "skills": [
+        {
+          "name": "capital-improvement-plan-drafter",
+          "display_name": "Capital Improvement Plan Drafter",
+          "description": "Drafts a Capital Improvement Plan (CIP) project entry — scope, problem statement, phased cost estimate, funding strategy, and schedule. Use when a public works director, engineer, or budget officer needs a complete CIP narrative for a specific project that will go into the city's capital budget document.",
+          "when_to_use_summary": [
+            "Draft the CIP entry for the Lift Station 3 replacement — $1.4M, CWSRF candidate.",
+            "We need a CIP writeup for the Downtown sidewalk reconstruction program for the FY2027 capital budget.",
+            "Build the project narrative for the public safety radio system replacement."
+          ],
+          "slash_command": "/capital-improvement-plan-drafter",
+          "skill_md_path": "plugins/public-works/skills/capital-improvement-plan-drafter/SKILL.md",
+          "example_path": "plugins/public-works/skills/capital-improvement-plan-drafter/examples/lift-station-3-replacement-cip.md"
+        },
+        {
+          "name": "infrastructure-condition-report",
+          "display_name": "Infrastructure Condition Report",
+          "description": "Drafts a written infrastructure condition report summarizing inspection data for a specific asset or asset class — pavement, water mains, sanitary sewer, stormwater, bridges, facilities — to support CIP planning, council presentations, or grant applications. Use when a public works director, asset manager, or city engineer's office has inspection data and prior reports in hand and needs an operational narrative wrapped around the engineer's findings.",
+          "when_to_use_summary": [
+            "Draft the FY2026 pavement condition report covering all city-maintained lane-miles.",
+            "Build a condition report on the four lift stations using last quarter's inspection data.",
+            "We need a sewer collection system condition report for the SRF loan application."
+          ],
+          "slash_command": "/infrastructure-condition-report",
+          "skill_md_path": "plugins/public-works/skills/infrastructure-condition-report/SKILL.md",
+          "example_path": "plugins/public-works/skills/infrastructure-condition-report/examples/cedar-ridge-pavement-condition-report-2025.md"
+        },
+        {
+          "name": "maintenance-log-analyzer",
+          "display_name": "Maintenance Log Analyzer",
+          "description": "Reviews equipment or facility maintenance logs for trends, recurring failures, and asset condition signals that should inform capital planning. Use when a fleet manager, water utility superintendent, facilities manager, or public works director needs a written analysis of maintenance history to support CIP decisions or preventive maintenance changes.",
+          "when_to_use_summary": [
+            "Pull together the FY2025 lift station maintenance analysis. Renata wants to know which station goes into the CIP first.",
+            "We've been chasing the same HVAC failures at City Hall for two years. What does the log actually say?",
+            "Fleet log analysis for the heavy trucks — which units are no longer cost-effective to keep?"
+          ],
+          "slash_command": "/maintenance-log-analyzer",
+          "skill_md_path": "plugins/public-works/skills/maintenance-log-analyzer/SKILL.md",
+          "example_path": "plugins/public-works/skills/maintenance-log-analyzer/examples/lift-station-maintenance-fy2025.md"
+        },
+        {
+          "name": "service-request-classifier",
+          "display_name": "Service Request Classifier",
+          "description": "Classifies a citizen public works service request (311-type) by category, urgency, routing, and follow-up needs, with a duplicate-check note for recurring locations. Use when a call center clerk, 311 coordinator, or public works dispatcher needs to convert a free-form citizen report into a routed work item.",
+          "when_to_use_summary": [
+            "Classify this 311 request and route it. Pothole on Main Street with photo, school zone.",
+            "Triage today's batch of online service requests.",
+            "This caller is describing a water leak. Where does this go, and how urgent?"
+          ],
+          "slash_command": "/service-request-classifier",
+          "skill_md_path": "plugins/public-works/skills/service-request-classifier/SKILL.md",
+          "example_path": "plugins/public-works/skills/service-request-classifier/examples/recurring-pothole-classification.md"
+        },
+        {
+          "name": "work-order-summarizer",
+          "display_name": "Work Order Summarizer",
+          "description": "Summarizes a batch of public works work orders into a weekly or monthly operations report for the public works director or city manager. Use when a division supervisor, public works director, or city manager's office needs a written summary of work order activity with KPIs, recurring issues, and recommendations.",
+          "when_to_use_summary": [
+            "Summarize the May work orders for the streets division — Renata wants it in the Friday packet.",
+            "Pull together a weekly ops report from the work order export.",
+            "We had 120 work orders last month. What were the patterns?"
+          ],
+          "slash_command": "/work-order-summarizer",
+          "skill_md_path": "plugins/public-works/skills/work-order-summarizer/SKILL.md",
+          "example_path": "plugins/public-works/skills/work-order-summarizer/examples/cedar-ridge-streets-may-2026-work-orders.md"
+        }
+      ]
+    },
+    {
+      "name": "economic-development",
+      "display_name": "Economic Development",
+      "description": "Claude skills for economic development. Built for ED corporation staff, business retention and expansion (BR&E) coordinators, site selection liaisons, and the small-shop ED director who wears every hat.",
+      "install_command": "/plugin install economic-development@whitegloveai-gov",
+      "skill_count": 4,
+      "icon": "economic-development",
+      "skills": [
+        {
+          "name": "annual-report-narrative",
+          "display_name": "Annual Report Narrative",
+          "description": "Drafts the narrative sections of an Economic Development Corporation (Type A or Type B) annual report or city EDC progress report. Use when an EDC executive director, board chair, or city ED director needs the narrative text for the statutorily required annual report under Tex. Loc. Gov't Code § 504.351 (Type A) or § 505.404 (Type B), or a city EDC progress report packaged for council and the public.",
+          "when_to_use_summary": [
+            "Draft the FY2025 annual report narrative for the EDC.",
+            "Build the year-in-review and project portfolio sections for the board chair.",
+            "Write the executive director's letter for this year's annual report."
+          ],
+          "slash_command": "/annual-report-narrative",
+          "skill_md_path": "plugins/economic-development/skills/annual-report-narrative/SKILL.md",
+          "example_path": "plugins/economic-development/skills/annual-report-narrative/examples/cedar-ridge-edc-fy2025-annual-report.md"
+        },
+        {
+          "name": "business-retention-survey-analyzer",
+          "display_name": "Business Retention Survey Analyzer",
+          "description": "Analyzes BR&E (Business Retention and Expansion) survey results, identifies risk signals and opportunity targets, and produces a board-ready analysis memo with recommended follow-up visits. Use when an EDC executive, BR&E coordinator, or chamber partner has completed a survey cycle and needs to convert responses into a prioritized action plan and watch list.",
+          "when_to_use_summary": [
+            "Analyze the FY2026 BR&E survey results.",
+            "Pull the retention risks and expansion signals out of these 60 responses.",
+            "Identify which businesses need a follow-up visit in the next 30 days."
+          ],
+          "slash_command": "/business-retention-survey-analyzer",
+          "skill_md_path": "plugins/economic-development/skills/business-retention-survey-analyzer/SKILL.md",
+          "example_path": "plugins/economic-development/skills/business-retention-survey-analyzer/examples/cedar-ridge-br-e-fy2026-analysis.md"
+        },
+        {
+          "name": "incentive-proposal-drafter",
+          "display_name": "Incentive Proposal Drafter",
+          "description": "Drafts a Chapter 380 or 381 economic development incentive agreement proposal narrative with project description, performance metrics, and clawback structure. Use when a city or county ED director, EDC executive, or assistant city manager needs to package an incentive request for council or commissioners court consideration under Tex. Loc. Gov't Code Ch. 380 (cities), Ch. 381 (counties), or routed through a Ch. 504/505 Type A or Type B corporation.",
+          "when_to_use_summary": [
+            "Draft a Chapter 380 proposal for the Advanced Manufacturing project.",
+            "Turn this deal sheet into something council can read on Tuesday.",
+            "Build the performance metrics and clawback section for a $28M capex deal."
+          ],
+          "slash_command": "/incentive-proposal-drafter",
+          "skill_md_path": "plugins/economic-development/skills/incentive-proposal-drafter/SKILL.md",
+          "example_path": "plugins/economic-development/skills/incentive-proposal-drafter/examples/cedar-ridge-advanced-manufacturing-incentive.md"
+        },
+        {
+          "name": "site-selection-response",
+          "display_name": "Site Selection Response",
+          "description": "Drafts a response to a confidential site selection RFI covering workforce, sites, utilities, regulatory environment, incentives, and quality of life sections. Use when a city or county ED director, EDC executive, or chamber partner needs to respond to a site selector or end-user RFI under a non-disclosure or \"Project [Code Name]\" cover and route a coordinated response from city, utility, workforce board, and chamber inputs.",
+          "when_to_use_summary": [
+            "Build a response to the distribution center RFI.",
+            "We have 14 days to respond to a confidential site selector RFI. Draft it.",
+            "Format the workforce, sites, and utilities sections for a 480,000-sf project."
+          ],
+          "slash_command": "/site-selection-response",
+          "skill_md_path": "plugins/economic-development/skills/site-selection-response/SKILL.md",
+          "example_path": "plugins/economic-development/skills/site-selection-response/examples/cedar-ridge-distribution-center-rfi-response.md"
+        }
+      ]
+    },
+    {
+      "name": "parks-recreation",
+      "display_name": "Parks & Recreation",
+      "description": "Claude skills for parks and recreation. Built for parks directors, recreation supervisors, athletics coordinators, and program staff at city parks departments.",
+      "install_command": "/plugin install parks-recreation@whitegloveai-gov",
+      "skill_count": 4,
+      "icon": "parks",
+      "skills": [
+        {
+          "name": "facility-rental-response",
+          "display_name": "Facility Rental Response",
+          "description": "Drafts a response to a citizen or organization facility rental inquiry covering availability, rates, deposit, insurance, alcohol policy, ADA accessibility, and next steps. Use when a parks rental coordinator, community center manager, or recreation supervisor receives an inquiry about renting a city pavilion, community center, athletic field, pool, or special-use space and needs a clear, complete written response that does not commit the city before the application is signed.",
+          "when_to_use_summary": [
+            "Someone wants to rent the city park pavilion for a wedding. Draft my reply.",
+            "A church is asking about renting the community center gym on Sundays.",
+            "Quinceañera inquiry for the community center ballroom. Reply."
+          ],
+          "slash_command": "/facility-rental-response",
+          "skill_md_path": "plugins/parks-recreation/skills/facility-rental-response/SKILL.md",
+          "example_path": "plugins/parks-recreation/skills/facility-rental-response/examples/community-pavilion-wedding-inquiry.md"
+        },
+        {
+          "name": "program-flyer-drafter",
+          "display_name": "Program Flyer Drafter",
+          "description": "Drafts copy for a municipal parks and recreation program flyer covering dates, age group, fees, registration mechanics, and an ADA-compliant accessibility statement. Use when a recreation supervisor, athletics coordinator, or program staff member needs ready-to-typeset flyer copy for a youth league, adult class, senior program, family event, or all-ages activity that will be distributed publicly and posted to the city website.",
+          "when_to_use_summary": [
+            "Draft the flyer copy for the youth summer baseball league.",
+            "We're launching a senior pickleball clinic. I need a flyer.",
+            "Adult yoga at the community center, eight weeks starting in September — write the flyer."
+          ],
+          "slash_command": "/program-flyer-drafter",
+          "skill_md_path": "plugins/parks-recreation/skills/program-flyer-drafter/SKILL.md",
+          "example_path": "plugins/parks-recreation/skills/program-flyer-drafter/examples/youth-baseball-summer-league.md"
+        },
+        {
+          "name": "sponsorship-proposal-helper",
+          "display_name": "Sponsorship Proposal Helper",
+          "description": "Drafts a sponsorship proposal for a municipal parks and recreation program, event, or facility naming opportunity with tiered benefits, reach metrics, restrictions, and an approval pathway. Use when a parks director, special events coordinator, or partnership officer needs a proposal to send to local businesses for a festival, athletic league, program series, scoreboard, or amenity at a level appropriate for small-to-mid local sponsors.",
+          "when_to_use_summary": [
+            "Draft a sponsorship proposal for our July 4th festival.",
+            "We need tiered sponsorship packages for the youth soccer league.",
+            "Naming opportunity for the scoreboard at the new athletic complex — draft the pitch."
+          ],
+          "slash_command": "/sponsorship-proposal-helper",
+          "skill_md_path": "plugins/parks-recreation/skills/sponsorship-proposal-helper/SKILL.md",
+          "example_path": "plugins/parks-recreation/skills/sponsorship-proposal-helper/examples/july-4-festival-sponsorship.md"
+        },
+        {
+          "name": "volunteer-recognition-writer",
+          "display_name": "Volunteer Recognition Writer",
+          "description": "Drafts a volunteer recognition letter, social media post, or program of spoken remarks for an individual volunteer or a group serving a municipal parks and recreation department. Use when a parks director, recreation supervisor, or city manager's office needs to recognize specific contribution and impact in a format suited to the audience — a personal letter, a public social post, or remarks delivered at a board meeting or recognition event.",
+          "when_to_use_summary": [
+            "Draft a recognition letter for our 200-hour volunteer at the community center.",
+            "We're honoring three volunteers at the next parks board meeting. I need 3 minutes of remarks.",
+            "Write a social post recognizing our trail-cleanup crew from Saturday."
+          ],
+          "slash_command": "/volunteer-recognition-writer",
+          "skill_md_path": "plugins/parks-recreation/skills/volunteer-recognition-writer/SKILL.md",
+          "example_path": "plugins/parks-recreation/skills/volunteer-recognition-writer/examples/community-center-volunteer-recognition.md"
+        }
+      ]
+    },
+    {
+      "name": "library",
+      "display_name": "Library",
+      "description": "Claude skills for public library staff. Built for library directors, programming librarians, collection development staff, and outreach coordinators at municipal and county public libraries.",
+      "install_command": "/plugin install library@whitegloveai-gov",
+      "skill_count": 3,
+      "icon": "library",
+      "skills": [
+        {
+          "name": "collection-development-justifier",
+          "display_name": "Collection Development Justifier",
+          "description": "Drafts a written rationale for a public library collection development decision — acquisition, deselection (weeding), or response to a reconsideration request for challenged material. Use when a collection development librarian, library director, or library board liaison must document a decision against the library's adopted collection development policy and the American Library Association's intellectual freedom framework, with statutory and procedural compliance preserved.",
+          "when_to_use_summary": [
+            "Document why we are acquiring this title for the YA collection.",
+            "Write the weeding rationale for the 200 cookbooks I pulled from the open stacks last week.",
+            "We received a reconsideration request on [title]. Draft the response."
+          ],
+          "slash_command": "/collection-development-justifier",
+          "skill_md_path": "plugins/library/skills/collection-development-justifier/SKILL.md",
+          "example_path": "plugins/library/skills/collection-development-justifier/examples/young-adult-novel-reconsideration-response.md"
+        },
+        {
+          "name": "community-partnership-proposal",
+          "display_name": "Community Partnership Proposal",
+          "description": "Drafts a partnership proposal between a public library and a school district, nonprofit, business, or community organization for a co-branded program, shared resource, or sustained initiative. Use when a library director or outreach coordinator needs a proposal that defines scope, commitments, branding, evaluation, and the appropriate MOU or contract pathway — distinguishing cooperative partnerships from procurements that fall under Tex. Loc. Gov't Code Ch. 252.",
+          "when_to_use_summary": [
+            "Draft the partnership proposal for the elementary summer reading program with the school district.",
+            "We are setting up a job-skills partnership with the workforce board — write the proposal.",
+            "The local credit union offered to sponsor financial literacy nights. Send back a proposal."
+          ],
+          "slash_command": "/community-partnership-proposal",
+          "skill_md_path": "plugins/library/skills/community-partnership-proposal/SKILL.md",
+          "example_path": "plugins/library/skills/community-partnership-proposal/examples/elementary-summer-reading-partnership.md"
+        },
+        {
+          "name": "program-description-writer",
+          "display_name": "Program Description Writer",
+          "description": "Drafts a public library program description for the events calendar, social media, printed flyers, newsletter, or press release. Use when a programming librarian, branch manager, or library director needs to publish a description of an upcoming program — storytime, book club, STEM workshop, job-skills class, civic literacy session, author event, craft, or movie night — that reads warmly to citizens, includes accessibility and registration mechanics, and aligns with the library's intellectual freedom and non-endorsement posture.",
+          "when_to_use_summary": [
+            "Write the calendar copy for next month's STEM Saturday series.",
+            "Draft a social caption and a newsletter blurb for the resume workshop on the 14th.",
+            "We need a press release version of the author talk for the city newsletter."
+          ],
+          "slash_command": "/program-description-writer",
+          "skill_md_path": "plugins/library/skills/program-description-writer/SKILL.md",
+          "example_path": "plugins/library/skills/program-description-writer/examples/stem-saturday-program-description.md"
+        }
+      ]
+    }
+  ]
+}
